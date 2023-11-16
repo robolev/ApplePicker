@@ -8074,37 +8074,3 @@ Script Stack (0 frames) :
 [2023.11.16-18.16.27:353][597]LogOutputDevice: Error: [Callstack] 0x00007ffe5dce257d KERNEL32.DLL!UnknownFunction []
 [2023.11.16-18.16.27:353][597]LogOutputDevice: Error: [Callstack] 0x00007ffe5e6caa58 ntdll.dll!UnknownFunction []
 [2023.11.16-18.16.27:353][597]LogOutputDevice: Error: 
-[2023.11.16-18.16.27:358][597]LogStats:                SubmitErrorReport -  0.000 s
-[2023.11.16-18.16.29:082][597]LogStats:                    SendNewReport -  1.725 s
-[2023.11.16-18.16.29:082][597]LogStats:             FDebug::EnsureFailed -  1.793 s
-[2023.11.16-18.16.29:210][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
-[2023.11.16-18.16.30:482][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.11.16-18.16.30:600][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
-[2023.11.16-18.16.30:614][674]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
-[2023.11.16-18.16.30:615][674]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_Basket21D4FF3B4543325C8B5C2E9B4D2F95B3.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
-[2023.11.16-18.16.30:623][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 38.9 sec)
-[2023.11.16-18.16.30:624][674]AssetCheck: New page: Asset Save: BP_Basket
-[2023.11.16-18.16.30:624][674]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
-[2023.11.16-18.20.18:397][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.11.16-18.20.18:479][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
-[2023.11.16-18.20.18:491][590]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
-[2023.11.16-18.20.18:491][590]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketB8C15E2244C54D8FB545B3B55CA92865.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
-[2023.11.16-18.20.18:501][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 39.0 sec)
-[2023.11.16-18.20.18:503][590]AssetCheck: New page: Asset Save: BP_Basket
-[2023.11.16-18.20.18:504][590]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
-[2023.11.16-18.20.19:798][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.11.16-18.20.19:882][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
-[2023.11.16-18.20.19:894][689]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
-[2023.11.16-18.20.19:895][689]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketF6CA36424DF53124F2D59FBFAEA647DF.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
-[2023.11.16-18.20.19:904][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 39.1 sec)
-[2023.11.16-18.20.19:905][689]AssetCheck: New page: Asset Save: BP_Basket
-[2023.11.16-18.20.19:905][689]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
-[2023.11.16-18.21.02:672][976]BlueprintLog: New page: Compile BP_Tree
-[2023.11.16-18.21.02:711][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
-[2023.11.16-18.21.03:505][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.11.16-18.21.03:632][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Tree" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Tree.uasset" SILENT=true
-[2023.11.16-18.21.03:639][ 30]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Tree
-[2023.11.16-18.21.03:640][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_TreeB7DBC8DD47EA941666292BB818037E62.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Tree.uasset'
-[2023.11.16-18.21.03:649][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 39.3 sec)
-[2023.11.16-18.21.03:652][ 30]AssetCheck: New page: Asset Save: BP_Tree
-[2023.11.16-18.21.03:652][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Tree.BP_Tree
