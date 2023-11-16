@@ -1181,3 +1181,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.16-10.45.44:595][918]AssetCheck: New page: Asset Save: Game
 [2023.11.16-10.45.44:595][918]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
 [2023.11.16-10.47.23:495][720]LogDerivedDataCache: C:/Users/Robert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.538 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6026 files in 8275 folders with total size 982 MiB.
+[2023.11.16-10.48.51:714][453]Cmd: EDIT COPY
+[2023.11.16-10.48.51:893][472]Cmd: EDIT PASTE
