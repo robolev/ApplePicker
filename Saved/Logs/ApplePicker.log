@@ -8108,3 +8108,1431 @@ Script Stack (0 frames) :
 [2023.11.16-18.21.03:649][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 39.3 sec)
 [2023.11.16-18.21.03:652][ 30]AssetCheck: New page: Asset Save: BP_Tree
 [2023.11.16-18.21.03:652][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Tree.BP_Tree
+[2023.11.16-18.47.12:463][293]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.16-18.47.12:473][293]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.16-18.47.12:486][294]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.16-18.47.15:689][484]LogContentBrowser: Attempting asset rename: NewFolder -> Interface
+[2023.11.16-18.47.15:691][484]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.16-18.47.57:781][160]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.16-18.47.57:795][160]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.16-18.47.57:802][160]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.16-18.47.57:842][162]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.16-18.48.09:640][297]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.11.16-18.48.09:675][297]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.16-18.48.13:336][484]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Interface/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.11.16-18.48.13:338][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-18.48.13:339][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-18.48.13:345][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-18.48.13:345][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-18.48.13:355][484]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.11.16-18.48.13:821][484]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.11.16-18.48.13:829][484]LogSlate: Took 0.005172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.16-18.48.20:375][853]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2023.11.16-18.48.20:546][853]LogMetaData: Removing '/Game/Interface/HUD.SKEL_HUD_C' ref from Metadata '/Game/Interface/NewWidgetBlueprint.PackageMetaData'
+[2023.11.16-18.48.20:546][853]LogMetaData: Removing '/Game/Interface/HUD.HUD_C' ref from Metadata '/Game/Interface/NewWidgetBlueprint.PackageMetaData'
+[2023.11.16-18.48.20:546][853]LogMetaData: Removing '/Game/Interface/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Interface/NewWidgetBlueprint.PackageMetaData'
+[2023.11.16-18.48.20:546][853]LogMetaData: Removing '/Game/Interface/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Interface/NewWidgetBlueprint.PackageMetaData'
+[2023.11.16-18.48.20:546][853]LogMetaData: Removing '/Game/Interface/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Interface/NewWidgetBlueprint.PackageMetaData'
+[2023.11.16-18.48.20:566][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.48.20:651][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.48.20:657][853]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.48.20:657][853]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD0E72ABA64A508042426DBEBF29A714A9.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.48.20:676][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 39.4 sec)
+[2023.11.16-18.48.20:707][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.11.16-18.48.20:725][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.16-18.48.20:740][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.16-18.48.20:742][853]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.48.20:742][853]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.50.00:265][978]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.50.00:303][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.16-18.51.54:746][519]LogSlate: Took 0.007428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.11.16-18.52.01:649][905]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.01:651][905]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.01:728][906]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.01:749][906]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.01:766][907]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:463][933]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:465][933]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:468][933]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:539][934]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:555][934]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:653][936]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.02:669][937]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:302][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:304][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:308][309]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:386][310]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:419][311]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.09:484][312]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:147][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:148][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:151][338]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:225][339]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:241][339]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.10:327][341]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:237][824]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:238][824]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:243][824]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:318][825]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:335][825]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:354][826]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.19:427][827]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.20:894][900]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.20:896][900]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.20:899][900]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.20:969][901]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:001][902]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:005][902]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:073][903]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:090][903]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:837][930]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:838][930]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:841][930]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:913][931]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:946][932]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.21:950][932]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:017][933]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:034][933]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:053][934]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:054][934]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:122][935]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:141][935]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.22:160][936]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:746][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:747][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:750][419]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:829][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:831][420]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:863][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:866][421]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:932][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:934][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:951][422]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.30:967][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:049][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:070][425]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:162][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:230][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:247][428]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:262][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:329][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:346][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:364][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:366][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:370][431]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:436][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:471][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.52.31:549][434]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-18.53.17:814][688]LogEditorTransaction: Undo Edit Value
+[2023.11.16-18.53.18:071][691]LogEditorTransaction: Undo Edit Value
+[2023.11.16-18.53.58:319][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.53.58:404][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.53.58:408][134]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.53.58:409][134]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD209DF63343BAFAB3F62176AB5907EF7A.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.53.58:419][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 39.5 sec)
+[2023.11.16-18.53.58:421][134]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.53.58:421][134]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.53.59:478][197]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.53.59:517][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.16-18.54.00:198][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.54.00:277][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.54.00:282][225]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.54.00:283][225]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDA71221E44F8FB016769B228B6909180E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.54.00:292][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 39.6 sec)
+[2023.11.16-18.54.00:295][225]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.54.00:295][225]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.54.40:942][919]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.54.40:976][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.16-18.55.03:187][561]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.55.03:219][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.16-18.55.03:462][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.55.03:546][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.55.03:550][563]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.55.03:551][563]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDBBF215E74FF7BCABFB43B8B8E7EE3C73.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.55.03:560][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 39.7 sec)
+[2023.11.16-18.55.03:562][563]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.55.03:562][563]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.55.15:491][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.55.15:577][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.55.15:581][310]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.55.15:581][310]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDED327EF841F48F653B27E3994FDED67B.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.55.15:591][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 39.8 sec)
+[2023.11.16-18.55.15:592][310]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.55.15:592][310]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.55.18:988][515]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.55.19:023][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.16-18.55.38:348][968]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.55.38:382][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.16-18.55.38:787][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.55.38:868][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.55.38:871][980]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.55.38:872][980]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDFB07DBCC491955DBDC1C25BAF4B185A3.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.55.38:882][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 39.9 sec)
+[2023.11.16-18.55.38:884][980]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.55.38:884][980]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.55.54:369][444]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.16-18.55.55:929][562]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.55.55:966][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-18.55.56:614][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.55.56:703][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.55.56:707][611]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.55.56:708][611]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD86F476CB499DAA1C3280A183EED85321.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.55.56:718][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 40.0 sec)
+[2023.11.16-18.55.56:720][611]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.55.56:720][611]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.56.01:721][933]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.16-18.56.03:108][ 19]LogEditorTransaction: Undo Edit Specified Color
+[2023.11.16-18.56.04:586][ 87]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.56.04:625][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.16-18.56.29:614][596]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.56.29:660][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.16-18.56.46:965][680]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.56.47:001][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.16-18.57.57:205][401]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.57.57:232][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.16-18.57.57:499][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.57.57:588][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.57.57:594][419]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.57.57:595][419]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD9A58969C46292D14BA863981212ED82E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.57.57:605][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 40.1 sec)
+[2023.11.16-18.57.57:606][419]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.57.57:606][419]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.58.31:954][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.58.32:076][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.16-18.58.32:089][965]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.16-18.58.32:090][965]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketB353872F4E9E3182AAECE3A6629031DE.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.16-18.58.32:099][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 40.2 sec)
+[2023.11.16-18.58.32:100][965]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.16-18.58.32:100][965]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.16-18.58.33:025][ 19]BlueprintLog: New page: Compile BP_Basket
+[2023.11.16-18.58.33:069][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-18.58.33:535][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.58.33:651][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.16-18.58.33:665][ 38]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.16-18.58.33:666][ 38]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketC2BB6DEA4C2142853C331B8C65D2D5C0.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.16-18.58.33:677][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 40.4 sec)
+[2023.11.16-18.58.33:679][ 38]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.16-18.58.33:679][ 38]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.16-18.59.00:210][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.59.00:296][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.59.00:302][962]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.59.00:302][962]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD59F5C15941438290003967B09660A68F.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.59.00:311][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 40.5 sec)
+[2023.11.16-18.59.00:313][962]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.59.00:313][962]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.59.02:599][139]BlueprintLog: New page: Compile HUD
+[2023.11.16-18.59.02:626][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.16-18.59.03:214][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-18.59.03:301][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-18.59.03:306][183]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-18.59.03:306][183]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDD088F1324A8B8AE9F393CDAB7388F085.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-18.59.03:316][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 40.6 sec)
+[2023.11.16-18.59.03:318][183]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-18.59.03:318][183]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-18.59.27:310][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.16-18.59.27:313][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-18.59.27:313][ 63]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-18.59.40:711][286]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-18.59.40:711][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-18.59.40:742][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.16-18.59.40:742][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-18.59.40:742][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.00.06:852][800]LogEditorTransaction: Undo Move Node
+[2023.11.16-19.00.19:951][729]BlueprintLog: New page: Compile MainGameMode
+[2023.11.16-19.00.19:955][729]LogBlueprint: Error: [AssetLog] C:\Users\Robert\ApplePicker\Content\Blueprints\MainGameMode.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2023.11.16-19.00.20:006][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.16-19.00.25:198][106]BlueprintLog: New page: Compile MainGameMode
+[2023.11.16-19.00.25:225][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-19.00.53:124][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.00.53:209][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.16-19.00.53:213][854]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.16-19.00.53:213][854]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeF283F89347FFE596C4C505BFE7F8DF75.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.16-19.00.53:225][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 40.7 sec)
+[2023.11.16-19.00.53:226][854]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.16-19.00.53:226][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.16-19.00.56:237][ 75]BlueprintLog: New page: Compile MainGameMode
+[2023.11.16-19.00.56:241][ 75]LogBlueprint: Error: [AssetLog] C:\Users\Robert\ApplePicker\Content\Blueprints\MainGameMode.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.11.16-19.00.56:266][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.16-19.00.56:643][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.00.56:727][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.16-19.00.56:731][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.16-19.00.56:732][ 97]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameMode43AE42514CCBE1ACE45F828B0B33F1CB.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.16-19.00.56:746][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 40.8 sec)
+[2023.11.16-19.00.56:748][ 97]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.16-19.00.56:748][ 97]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.16-19.00.59:530][291]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.00.59:607][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.16-19.00.59:611][291]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.16-19.00.59:613][291]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameMode14DE414649AB22657C13BC872F1376EB.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.16-19.00.59:621][291]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 40.9 sec)
+[2023.11.16-19.00.59:623][291]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.16-19.00.59:623][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.16-19.01.26:847][549]BlueprintLog: New page: Compile MainGameMode
+[2023.11.16-19.01.26:872][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.16-19.01.30:184][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.01.30:194][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.01.30:194][828]PIE: New page: PIE session: Game (16 Nov 2023, 21:01:30)
+[2023.11.16-19.01.30:194][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.01.30:196][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2023.11.16-19.01.30:196][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002074s)
+[2023.11.16-19.01.30:208][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-19.01.30:212][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.01.30:212][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.01.30:212][828]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.01.30:213][828]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2023.11.16-19.01.30:213][828]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.01.30:213][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.01.30:213][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.01.30:214][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.01.30:214][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.01.30:214][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.01.30:216][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.01.30:231][828]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.01.30:231][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.01.30:231][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.01.30:231][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.01.30:232][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2023.11.16-19.01.30:232][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2023.11.16-19.01.30:233][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2023.11.16-19.01.30:233][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2023.11.16-19.01.30:233][828]LogInit: FAudioDevice initialized with ID 75.
+[2023.11.16-19.01.30:233][828]LogAudio: Display: Audio Device (ID: 75) registered with world 'Game'.
+[2023.11.16-19.01.30:233][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2023.11.16-19.01.30:240][828]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.01.30:241][828]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.01.30
+[2023.11.16-19.01.30:241][828]LogWorld: Bringing up level for play took: 0.000726
+[2023.11.16-19.01.30:243][828]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.11.16-19.01.30:244][828]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.01.30:244][828]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.01.30:244][828]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.01.30:249][828]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.01.30:249][828]PIE: Server logged in
+[2023.11.16-19.01.30:250][828]PIE: Play in editor total start time 0.056 seconds.
+[2023.11.16-19.02.37:794][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.02.37:794][725]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.02.37:795][725]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.02.37:795][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.02.37:827][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.02.37:831][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.02.37:845][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.02.37:846][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2023.11.16-19.02.37:846][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.11.16-19.02.37:847][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.11.16-19.02.37:855][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.16-19.02.37:899][726]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.11.16-19.03.08:321][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:322][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:323][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:328][710]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:411][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:412][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:447][712]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:452][712]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:523][713]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:525][713]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:545][713]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:563][714]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:566][714]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:640][715]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:661][715]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:684][716]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:756][717]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:793][718]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:797][718]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:864][719]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.08:883][719]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:257][786]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:258][786]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:338][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:341][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:359][787]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:377][788]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.10:382][788]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.03.25:689][669]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.03.25:718][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-19.03.26:170][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.03.26:254][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.03.26:260][687]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.03.26:260][687]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD3521C0FA435C6E72E4EB6986AC3B6C2B.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.03.26:271][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 41.0 sec)
+[2023.11.16-19.03.26:272][687]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.03.26:272][687]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.03.28:088][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.03.28:097][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.03.28:097][832]PIE: New page: PIE session: Game (16 Nov 2023, 21:03:28)
+[2023.11.16-19.03.28:123][832]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.03.28:126][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2023.11.16-19.03.28:126][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002943s)
+[2023.11.16-19.03.28:142][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.16-19.03.28:149][832]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.03.28:149][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.03.28:150][832]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.03.28:151][832]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2023.11.16-19.03.28:151][832]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.03.28:151][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.03.28:151][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.03.28:151][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.03.28:151][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.03.28:151][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.03.28:154][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.03.28:172][832]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.03.28:173][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.03.28:173][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.03.28:173][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.03.28:174][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2023.11.16-19.03.28:174][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2023.11.16-19.03.28:176][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2023.11.16-19.03.28:176][832]LogInit: FAudioDevice initialized with ID 76.
+[2023.11.16-19.03.28:176][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2023.11.16-19.03.28:176][832]LogAudio: Display: Audio Device (ID: 76) registered with world 'Game'.
+[2023.11.16-19.03.28:176][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2023.11.16-19.03.28:179][832]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.03.28:181][832]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.03.28
+[2023.11.16-19.03.28:181][832]LogWorld: Bringing up level for play took: 0.001135
+[2023.11.16-19.03.28:184][832]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.11.16-19.03.28:185][832]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.03.28:185][832]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.03.28:185][832]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.03.28:188][832]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.03.28:188][832]PIE: Server logged in
+[2023.11.16-19.03.28:189][832]PIE: Play in editor total start time 0.092 seconds.
+[2023.11.16-19.03.48:063][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.03.48:063][153]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.03.48:063][153]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.03.48:064][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.03.48:071][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.03.48:075][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.03.48:087][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.03.48:087][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2023.11.16-19.03.48:087][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.11.16-19.03.48:090][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.11.16-19.03.48:094][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.03.48:096][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.16-19.03.48:144][154]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.11.16-19.04.25:049][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:051][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:052][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:127][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:145][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:164][393]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:262][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:332][396]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:354][396]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:371][397]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:455][398]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:472][399]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:573][401]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:578][401]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:649][402]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:666][402]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:683][403]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:685][403]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:751][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:771][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:790][405]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:795][405]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:864][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:900][407]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:963][408]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.25:986][408]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:013][409]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:093][410]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:112][410]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:131][411]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:196][412]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:232][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:236][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:302][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:320][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:405][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:424][416]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.26:443][417]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:445][518]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:446][518]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:449][518]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:521][519]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:540][519]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:623][521]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:641][521]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.28:661][522]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.29:881][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.29:882][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.29:956][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.29:978][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.29:998][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.30:002][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.30:068][580]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.30:101][581]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.30:106][581]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.04.30:171][582]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.05.08:779][905]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.05.08:806][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.16-19.05.09:433][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.05.09:515][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.05.09:521][930]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.05.09:522][930]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD357AC7F94D7405E0495EBC895ED88399.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.05.09:531][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 41.1 sec)
+[2023.11.16-19.05.09:533][930]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.05.09:533][930]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.05.29:916][190]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.05.29:943][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.16-19.05.30:402][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.05.30:485][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.05.30:491][206]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.05.30:492][206]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD3F0175B84D568E0BEDCF9D8C5FA4D062.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.05.30:500][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 41.2 sec)
+[2023.11.16-19.05.30:502][206]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.05.30:502][206]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.05.33:495][431]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.05.33:507][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.05.33:507][431]PIE: New page: PIE session: Game (16 Nov 2023, 21:05:33)
+[2023.11.16-19.05.33:507][431]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.05.33:509][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001926s)
+[2023.11.16-19.05.33:509][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001967s)
+[2023.11.16-19.05.33:523][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.16-19.05.33:527][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.05.33:527][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.05.33:528][431]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.05.33:528][431]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2023.11.16-19.05.33:528][431]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.05.33:528][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.05.33:528][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.05.33:529][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.05.33:529][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.05.33:529][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.05.33:531][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.05.33:547][431]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.05.33:547][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.05.33:547][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.05.33:547][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.05.33:548][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2023.11.16-19.05.33:548][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2023.11.16-19.05.33:550][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2023.11.16-19.05.33:550][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2023.11.16-19.05.33:550][431]LogInit: FAudioDevice initialized with ID 77.
+[2023.11.16-19.05.33:550][431]LogAudio: Display: Audio Device (ID: 77) registered with world 'Game'.
+[2023.11.16-19.05.33:550][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.16-19.05.33:553][431]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.05.33:554][431]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.05.33
+[2023.11.16-19.05.33:554][431]LogWorld: Bringing up level for play took: 0.000814
+[2023.11.16-19.05.33:557][431]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2023.11.16-19.05.33:558][431]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.05.33:558][431]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.05.33:558][431]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.05.33:562][431]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.05.33:562][431]PIE: Server logged in
+[2023.11.16-19.05.33:563][431]PIE: Play in editor total start time 0.056 seconds.
+[2023.11.16-19.05.44:404][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.05.44:404][601]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.05.44:404][601]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.05.44:404][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.05.44:411][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.05.44:415][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.05.44:430][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.05.44:430][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.16-19.05.44:430][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.16-19.05.44:431][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.16-19.05.44:436][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.05.44:438][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.16-19.05.44:537][603]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.11.16-19.06.03:320][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:322][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:325][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:402][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:404][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:421][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:440][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:507][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:525][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:544][752]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.03:646][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.06.16:544][523]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.06.16:570][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.16-19.06.17:285][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.06.17:366][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.06.17:372][554]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.06.17:373][554]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDD04635AA49474A78AD43668FDBC0C24E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.06.17:383][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 41.3 sec)
+[2023.11.16-19.06.17:384][554]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.06.17:384][554]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.06.18:976][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.06.18:986][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.06.18:986][691]PIE: New page: PIE session: Game (16 Nov 2023, 21:06:18)
+[2023.11.16-19.06.19:023][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.06.19:024][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001785s)
+[2023.11.16-19.06.19:025][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001831s)
+[2023.11.16-19.06.19:038][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-19.06.19:041][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.06.19:041][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.06.19:041][691]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.06.19:042][691]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2023.11.16-19.06.19:042][691]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.06.19:042][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.06.19:042][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.06.19:042][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.06.19:042][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.06.19:042][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.06.19:044][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.06.19:059][691]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.06.19:059][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.06.19:059][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.06.19:059][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.06.19:060][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2023.11.16-19.06.19:060][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2023.11.16-19.06.19:061][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2023.11.16-19.06.19:061][691]LogInit: FAudioDevice initialized with ID 78.
+[2023.11.16-19.06.19:061][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2023.11.16-19.06.19:061][691]LogAudio: Display: Audio Device (ID: 78) registered with world 'Game'.
+[2023.11.16-19.06.19:061][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.16-19.06.19:064][691]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.06.19:065][691]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.06.19
+[2023.11.16-19.06.19:065][691]LogWorld: Bringing up level for play took: 0.000781
+[2023.11.16-19.06.19:067][691]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2023.11.16-19.06.19:068][691]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.06.19:068][691]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.06.19:068][691]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.06.19:070][691]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.06.19:070][691]PIE: Server logged in
+[2023.11.16-19.06.19:072][691]PIE: Play in editor total start time 0.086 seconds.
+[2023.11.16-19.06.34:293][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.06.34:294][392]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.06.34:294][392]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.06.34:294][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.06.34:300][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.06.34:305][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.06.34:319][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.06.34:319][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.16-19.06.34:319][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.16-19.06.34:320][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.16-19.06.34:324][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.06.34:328][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.16-19.06.34:372][393]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.11.16-19.06.49:348][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.06.49:435][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.06.49:441][357]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.06.49:442][357]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD6533E588463D1186BDAAE788CF777A0E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.06.49:453][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 41.4 sec)
+[2023.11.16-19.06.49:455][357]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.06.49:455][357]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.06.50:960][447]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.06.50:980][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.16-19.06.52:917][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.06.52:926][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.06.52:926][594]PIE: New page: PIE session: Game (16 Nov 2023, 21:06:52)
+[2023.11.16-19.06.52:927][594]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.06.52:929][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2023.11.16-19.06.52:929][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001980s)
+[2023.11.16-19.06.52:942][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.16-19.06.52:946][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.06.52:946][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.06.52:946][594]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.06.52:946][594]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2023.11.16-19.06.52:947][594]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.06.52:947][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.06.52:947][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.06.52:947][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.06.52:947][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.06.52:947][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.06.52:949][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.06.52:962][594]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.06.52:963][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.06.52:963][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.06.52:963][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.06.52:964][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2023.11.16-19.06.52:964][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2023.11.16-19.06.52:965][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2023.11.16-19.06.52:965][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2023.11.16-19.06.52:965][594]LogInit: FAudioDevice initialized with ID 79.
+[2023.11.16-19.06.52:965][594]LogAudio: Display: Audio Device (ID: 79) registered with world 'Game'.
+[2023.11.16-19.06.52:965][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.16-19.06.52:968][594]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.06.52:969][594]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.06.52
+[2023.11.16-19.06.52:969][594]LogWorld: Bringing up level for play took: 0.000707
+[2023.11.16-19.06.52:972][594]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2023.11.16-19.06.52:973][594]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.06.52:973][594]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.06.52:973][594]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.06.52:975][594]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.06.52:975][594]PIE: Server logged in
+[2023.11.16-19.06.52:976][594]PIE: Play in editor total start time 0.05 seconds.
+[2023.11.16-19.06.55:383][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.06.55:383][857]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.06.55:384][857]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.06.55:384][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.06.55:390][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.06.55:394][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.06.55:406][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.06.55:406][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.16-19.06.55:406][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.16-19.06.55:409][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.16-19.06.55:412][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.06.55:415][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.16-19.06.55:464][858]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.11.16-19.06.57:183][991]Cmd: TRANSACTION UNDO
+[2023.11.16-19.06.57:183][991]LogEditorTransaction: Undo Edit Padding
+[2023.11.16-19.07.26:349][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.07.26:434][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.07.26:440][756]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.07.26:441][756]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD8FB82B1D4A2B4FE5635D25BA36A3908B.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.07.26:450][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 41.5 sec)
+[2023.11.16-19.07.26:450][756]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.07.26:450][756]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.07.27:460][815]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.07.27:483][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.16-19.07.30:340][ 35]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.07.30:350][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.07.30:350][ 35]PIE: New page: PIE session: Game (16 Nov 2023, 21:07:30)
+[2023.11.16-19.07.30:383][ 35]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.07.30:385][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001942s)
+[2023.11.16-19.07.30:385][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001989s)
+[2023.11.16-19.07.30:398][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.16-19.07.30:402][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.07.30:402][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.07.30:402][ 35]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.07.30:402][ 35]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2023.11.16-19.07.30:402][ 35]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.11.16-19.07.30:402][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.07.30:402][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.07.30:402][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.07.30:402][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.07.30:402][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.07.30:403][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.07.30:403][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.07.30:403][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.07.30:403][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.07.30:403][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.07.30:403][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.07.30:405][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.07.30:418][ 35]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.07.30:419][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.07.30:419][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.07.30:419][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.07.30:419][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.11.16-19.07.30:420][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.11.16-19.07.30:421][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.11.16-19.07.30:421][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.11.16-19.07.30:421][ 35]LogInit: FAudioDevice initialized with ID 80.
+[2023.11.16-19.07.30:421][ 35]LogAudio: Display: Audio Device (ID: 80) registered with world 'Game'.
+[2023.11.16-19.07.30:421][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.16-19.07.30:424][ 35]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.07.30:424][ 35]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.07.30
+[2023.11.16-19.07.30:424][ 35]LogWorld: Bringing up level for play took: 0.000652
+[2023.11.16-19.07.30:427][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.11.16-19.07.30:428][ 35]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.07.30:428][ 35]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.07.30:428][ 35]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.07.30:430][ 35]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.07.30:430][ 35]PIE: Server logged in
+[2023.11.16-19.07.30:432][ 35]PIE: Play in editor total start time 0.081 seconds.
+[2023.11.16-19.07.52:566][618]LogDerivedDataCache: C:/Users/Robert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.283 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6027 files in 8277 folders with total size 982 MiB.
+[2023.11.16-19.08.12:514][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.08.12:514][920]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.08.12:514][920]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.08.12:514][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.08.12:522][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.08.12:525][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.08.12:538][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.08.12:538][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.16-19.08.12:538][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.16-19.08.12:540][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.16-19.08.12:546][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.16-19.08.12:590][921]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.11.16-19.08.26:159][789]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:161][789]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:246][790]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:264][790]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:280][791]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:286][791]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:397][793]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:489][794]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:592][796]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:609][797]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.26:715][799]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.11.16-19.08.27:102][809]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.11.16-19.08.28:030][844]LogEditorTransaction: Undo Edit Y
+[2023.11.16-19.08.29:410][918]LogEditorTransaction: Undo Edit X
+[2023.11.16-19.08.45:143][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.08.45:224][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.08.45:230][885]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.08.45:231][885]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD58DBA6CD467133FE2F4DCC9AD6B9BB6B.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.08.45:239][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 41.6 sec)
+[2023.11.16-19.08.45:241][885]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.08.45:241][885]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.09.01:402][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.09.01:486][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.09.01:491][869]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.09.01:493][869]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD363E19C74AC7BDDB0EFA6FAD8FB0B3D0.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.09.01:501][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 41.7 sec)
+[2023.11.16-19.09.01:504][869]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.09.01:504][869]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.09.02:281][911]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.09.02:304][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.16-19.09.04:271][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.09.04:280][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.09.04:281][ 45]PIE: New page: PIE session: Game (16 Nov 2023, 21:09:04)
+[2023.11.16-19.09.04:281][ 45]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.09.04:282][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001912s)
+[2023.11.16-19.09.04:282][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001950s)
+[2023.11.16-19.09.04:297][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.16-19.09.04:300][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.09.04:300][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.09.04:300][ 45]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.09.04:301][ 45]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2023.11.16-19.09.04:301][ 45]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.09.04:301][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.09.04:301][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.09.04:301][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.09.04:301][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.09.04:301][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.09.04:304][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.09.04:318][ 45]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.09.04:319][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.09.04:319][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.09.04:319][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.09.04:320][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.11.16-19.09.04:320][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.11.16-19.09.04:322][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.11.16-19.09.04:322][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.11.16-19.09.04:322][ 45]LogInit: FAudioDevice initialized with ID 81.
+[2023.11.16-19.09.04:322][ 45]LogAudio: Display: Audio Device (ID: 81) registered with world 'Game'.
+[2023.11.16-19.09.04:322][ 45]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.16-19.09.04:325][ 45]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.09.04:326][ 45]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.09.04
+[2023.11.16-19.09.04:326][ 45]LogWorld: Bringing up level for play took: 0.000741
+[2023.11.16-19.09.04:328][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.11.16-19.09.04:329][ 45]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.04:329][ 45]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.04:329][ 45]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.04:332][ 45]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.04:332][ 45]PIE: Server logged in
+[2023.11.16-19.09.04:332][ 45]PIE: Play in editor total start time 0.053 seconds.
+[2023.11.16-19.09.06:432][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.06:432][270]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.09.06:434][270]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.09.06:434][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.06:440][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.09.06:444][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.06:457][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.06:457][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.16-19.09.06:457][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.16-19.09.06:459][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.16-19.09.06:465][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.16-19.09.06:507][271]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.11.16-19.09.12:508][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.09.12:594][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.09.12:600][666]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.09.12:602][666]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD961CAFA6491EE0DCEA5F5A8BAF99D4A3.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.09.12:611][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 41.8 sec)
+[2023.11.16-19.09.12:613][666]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.09.12:613][666]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.09.13:990][741]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.09.14:011][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.16-19.09.16:556][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.09.16:566][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.09.16:566][922]PIE: New page: PIE session: Game (16 Nov 2023, 21:09:16)
+[2023.11.16-19.09.16:566][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.09.16:568][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001896s)
+[2023.11.16-19.09.16:568][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001932s)
+[2023.11.16-19.09.16:582][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.16-19.09.16:586][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.09.16:586][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.09.16:587][922]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.09.16:587][922]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2023.11.16-19.09.16:587][922]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.09.16:587][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.09.16:587][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.09.16:587][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.09.16:587][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.09.16:587][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.09.16:589][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.09.16:602][922]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.09.16:603][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.09.16:603][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.09.16:603][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.09.16:604][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2023.11.16-19.09.16:604][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2023.11.16-19.09.16:605][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2023.11.16-19.09.16:605][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2023.11.16-19.09.16:605][922]LogInit: FAudioDevice initialized with ID 82.
+[2023.11.16-19.09.16:605][922]LogAudio: Display: Audio Device (ID: 82) registered with world 'Game'.
+[2023.11.16-19.09.16:605][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.16-19.09.16:608][922]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.09.16:609][922]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.09.16
+[2023.11.16-19.09.16:609][922]LogWorld: Bringing up level for play took: 0.000728
+[2023.11.16-19.09.16:612][922]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2023.11.16-19.09.16:613][922]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.16:613][922]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.16:613][922]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.16:615][922]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.16:615][922]PIE: Server logged in
+[2023.11.16-19.09.16:616][922]PIE: Play in editor total start time 0.05 seconds.
+[2023.11.16-19.09.22:793][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.22:793][575]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.09.22:793][575]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.09.22:794][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.22:800][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.09.22:804][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.22:816][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.09.22:816][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2023.11.16-19.09.22:816][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.16-19.09.22:818][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.11.16-19.09.22:822][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.22:825][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.16-19.09.22:869][576]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.11.16-19.09.24:533][694]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.24:533][694]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.24:932][700]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.24:932][700]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.25:278][711]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.25:278][711]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.25:740][731]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.25:740][731]LogEditorTransaction: Undo Edit Y
+[2023.11.16-19.09.26:166][749]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.26:166][749]LogEditorTransaction: Undo Edit X
+[2023.11.16-19.09.26:594][767]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.26:594][767]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.27:291][801]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.27:291][801]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.28:333][853]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.28:333][853]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.29:782][922]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.29:782][922]LogEditorTransaction: Undo Edit Top
+[2023.11.16-19.09.30:415][953]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.30:415][953]LogEditorTransaction: Undo Edit Bottom
+[2023.11.16-19.09.31:162][990]Cmd: TRANSACTION UNDO
+[2023.11.16-19.09.31:162][990]LogEditorTransaction: Undo Edit Padding
+[2023.11.16-19.09.32:072][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.09.32:155][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.16-19.09.32:199][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.16-19.09.32:209][ 36]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.16-19.09.32:210][ 36]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Game881E942848FEDF2A0B5736A609E1EEF5.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.16-19.09.32:217][ 36]LogFileHelpers: Saving map 'Game' took 0.062
+[2023.11.16-19.09.32:225][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 41.9 sec)
+[2023.11.16-19.09.32:228][ 36]AssetCheck: New page: Asset Save: Game
+[2023.11.16-19.09.32:228][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.16-19.09.33:272][ 94]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.09.33:288][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-19.09.35:930][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.09.35:941][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.09.35:941][284]PIE: New page: PIE session: Game (16 Nov 2023, 21:09:35)
+[2023.11.16-19.09.35:972][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.09.35:974][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002153s)
+[2023.11.16-19.09.35:974][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002203s)
+[2023.11.16-19.09.35:989][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-19.09.35:992][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.09.35:992][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.09.35:993][284]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.09.35:993][284]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2023.11.16-19.09.35:993][284]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.09.35:993][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.09.35:993][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.09.35:994][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.09.35:994][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.09.35:994][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.09.35:996][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.09.36:009][284]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.09.36:010][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.09.36:010][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.09.36:010][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.09.36:010][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2023.11.16-19.09.36:010][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2023.11.16-19.09.36:012][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2023.11.16-19.09.36:012][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2023.11.16-19.09.36:012][284]LogInit: FAudioDevice initialized with ID 83.
+[2023.11.16-19.09.36:012][284]LogAudio: Display: Audio Device (ID: 83) registered with world 'Game'.
+[2023.11.16-19.09.36:012][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.16-19.09.36:015][284]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.09.36:015][284]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.09.36
+[2023.11.16-19.09.36:016][284]LogWorld: Bringing up level for play took: 0.000774
+[2023.11.16-19.09.36:018][284]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2023.11.16-19.09.36:018][284]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.36:018][284]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.36:020][284]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.36:021][284]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.36:022][284]PIE: Server logged in
+[2023.11.16-19.09.36:022][284]PIE: Play in editor total start time 0.081 seconds.
+[2023.11.16-19.09.37:443][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.37:443][436]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.09.37:443][436]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.09.37:443][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.37:449][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.09.37:454][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.09.37:466][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.09.37:466][436]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2023.11.16-19.09.37:466][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.16-19.09.37:469][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.11.16-19.09.37:472][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.09.37:475][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.16-19.09.37:525][437]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.11.16-19.09.49:954][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.09.50:038][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.09.50:044][207]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.09.50:045][207]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDB0EBD8764548A14774CE4493CA5F3285.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.09.50:054][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 42.0 sec)
+[2023.11.16-19.09.50:057][207]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.09.50:057][207]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.09.50:979][259]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.09.51:000][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.16-19.09.52:845][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.09.52:855][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.09.52:855][385]PIE: New page: PIE session: Game (16 Nov 2023, 21:09:52)
+[2023.11.16-19.09.52:891][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.09.52:894][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001660s)
+[2023.11.16-19.09.52:894][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001701s)
+[2023.11.16-19.09.52:907][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.16-19.09.52:910][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.09.52:910][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.09.52:911][385]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.09.52:911][385]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2023.11.16-19.09.52:911][385]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.09.52:911][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.09.52:911][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.09.52:911][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.09.52:912][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.09.52:912][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.09.52:914][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.09.52:927][385]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.09.52:927][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.09.52:927][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.09.52:927][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.09.52:928][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2023.11.16-19.09.52:928][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2023.11.16-19.09.52:930][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2023.11.16-19.09.52:930][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2023.11.16-19.09.52:930][385]LogInit: FAudioDevice initialized with ID 84.
+[2023.11.16-19.09.52:930][385]LogAudio: Display: Audio Device (ID: 84) registered with world 'Game'.
+[2023.11.16-19.09.52:930][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2023.11.16-19.09.52:932][385]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.09.52:933][385]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.09.52
+[2023.11.16-19.09.52:933][385]LogWorld: Bringing up level for play took: 0.000676
+[2023.11.16-19.09.52:936][385]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2023.11.16-19.09.52:936][385]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.52:936][385]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.09.52:936][385]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.52:939][385]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.09.52:939][385]PIE: Server logged in
+[2023.11.16-19.09.52:940][385]PIE: Play in editor total start time 0.085 seconds.
+[2023.11.16-19.10.10:102][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.10.10:102][380]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.10.10:103][380]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.10.10:103][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.10.10:109][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.10.10:114][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.10.10:126][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.10.10:126][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2023.11.16-19.10.10:126][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.11.16-19.10.10:128][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.11.16-19.10.10:134][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.16-19.10.10:179][381]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.11.16-19.10.26:150][384]LogEditorTransaction: Undo Edit Left
+[2023.11.16-19.10.33:286][795]LogEditorTransaction: Undo Edit Left
+[2023.11.16-19.10.43:905][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.10.43:991][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.10.43:997][389]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.10.43:998][389]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD968802B648DF1DB5BD29AFAC852A5ECD.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.10.44:007][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 42.1 sec)
+[2023.11.16-19.10.44:009][389]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.10.44:009][389]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.10.44:970][443]Cmd: TRANSACTION UNDO
+[2023.11.16-19.10.44:970][443]LogEditorTransaction: Undo Edit Value
+[2023.11.16-19.10.57:531][164]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.10.57:554][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-19.10.58:012][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.10.58:094][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.10.58:100][178]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.10.58:100][178]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDEA5CBEFB415054F2AEF3A9A37EEEE7C7.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.10.58:111][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 42.2 sec)
+[2023.11.16-19.10.58:113][178]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.10.58:113][178]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.11.02:747][454]LogEditorTransaction: Undo Move Widget
+[2023.11.16-19.11.23:696][708]LogEditorTransaction: Undo Edit Left
+[2023.11.16-19.11.36:315][425]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.11.36:339][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.16-19.11.36:782][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.11.36:868][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.11.36:872][440]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.11.36:873][440]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD8C96D5FD43C0702E21663BA02A1F1842.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.11.36:882][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 42.3 sec)
+[2023.11.16-19.11.36:884][440]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.11.36:884][440]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.12.15:799][880]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.12.15:823][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.16-19.12.18:108][ 38]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.12.18:118][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.12.18:118][ 38]PIE: New page: PIE session: Game (16 Nov 2023, 21:12:18)
+[2023.11.16-19.12.18:142][ 38]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.12.18:144][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002003s)
+[2023.11.16-19.12.18:144][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002049s)
+[2023.11.16-19.12.18:155][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.16-19.12.18:158][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.12.18:158][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.12.18:159][ 38]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.12.18:159][ 38]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2023.11.16-19.12.18:159][ 38]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.12.18:159][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.12.18:159][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.12.18:159][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.12.18:159][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.12.18:159][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.12.18:163][ 38]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.12.18:177][ 38]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.12.18:177][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.12.18:177][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.12.18:177][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.12.18:178][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2023.11.16-19.12.18:178][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2023.11.16-19.12.18:180][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2023.11.16-19.12.18:180][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2023.11.16-19.12.18:180][ 38]LogInit: FAudioDevice initialized with ID 85.
+[2023.11.16-19.12.18:180][ 38]LogAudio: Display: Audio Device (ID: 85) registered with world 'Game'.
+[2023.11.16-19.12.18:180][ 38]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.16-19.12.18:182][ 38]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.12.18:183][ 38]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.12.18
+[2023.11.16-19.12.18:183][ 38]LogWorld: Bringing up level for play took: 0.000647
+[2023.11.16-19.12.18:186][ 38]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2023.11.16-19.12.18:187][ 38]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.12.18:187][ 38]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.12.18:187][ 38]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.12.18:189][ 38]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.12.18:189][ 38]PIE: Server logged in
+[2023.11.16-19.12.18:190][ 38]PIE: Play in editor total start time 0.071 seconds.
+[2023.11.16-19.12.21:722][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.12.21:722][439]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.12.21:722][439]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.12.21:722][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.12.21:729][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.12.21:733][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.12.21:744][439]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.12.21:744][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.16-19.12.21:744][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.16-19.12.21:746][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.16-19.12.21:750][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.12.21:752][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.16-19.12.21:797][440]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2023.11.16-19.13.06:923][ 46]LogEditorTransaction: Undo Edit Left
+[2023.11.16-19.13.25:156][ 86]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.13.25:178][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.16-19.14.24:702][958]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.14.24:725][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.16-19.14.26:902][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.14.26:912][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.14.26:912][116]PIE: New page: PIE session: Game (16 Nov 2023, 21:14:26)
+[2023.11.16-19.14.26:935][116]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.14.26:937][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002476s)
+[2023.11.16-19.14.26:937][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002526s)
+[2023.11.16-19.14.26:951][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.16-19.14.26:954][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.14.26:954][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.14.26:954][116]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.14.26:955][116]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2023.11.16-19.14.26:955][116]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.14.26:955][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.14.26:955][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.14.26:955][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.14.26:955][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.14.26:955][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.14.26:958][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.14.26:973][116]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.14.26:973][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.14.26:973][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.14.26:973][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.14.26:974][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2023.11.16-19.14.26:974][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2023.11.16-19.14.26:975][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2023.11.16-19.14.26:975][116]LogInit: FAudioDevice initialized with ID 86.
+[2023.11.16-19.14.26:975][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2023.11.16-19.14.26:975][116]LogAudio: Display: Audio Device (ID: 86) registered with world 'Game'.
+[2023.11.16-19.14.26:975][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.16-19.14.26:978][116]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.14.26:979][116]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.14.26
+[2023.11.16-19.14.26:979][116]LogWorld: Bringing up level for play took: 0.000657
+[2023.11.16-19.14.26:982][116]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2023.11.16-19.14.26:982][116]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.14.26:982][116]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.14.26:982][116]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.14.26:985][116]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.14.26:985][116]PIE: Server logged in
+[2023.11.16-19.14.26:986][116]PIE: Play in editor total start time 0.073 seconds.
+[2023.11.16-19.14.37:075][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.14.37:075][291]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.14.37:076][291]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.14.37:076][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.14.37:082][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.14.37:087][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.14.37:099][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.14.37:099][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.16-19.14.37:099][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.16-19.14.37:101][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.16-19.14.37:107][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.16-19.14.37:152][292]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.11.16-19.14.39:029][422]LogEditorTransaction: Undo Set Binding
+[2023.11.16-19.14.39:617][436]LogEditorTransaction: Undo Edit Text
+[2023.11.16-19.14.40:120][457]LogEditorTransaction: Undo Edit Text
+[2023.11.16-19.14.40:346][461]LogEditorTransaction: Undo Edit Text
+[2023.11.16-19.14.41:891][543]LogEditorTransaction: Undo Remove Binding
+[2023.11.16-19.14.43:254][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.14.43:345][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.14.43:351][611]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.14.43:352][611]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD162FE79B4F39CA54E2C8089F893BFBD6.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.14.43:360][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 42.4 sec)
+[2023.11.16-19.14.43:362][611]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.14.43:362][611]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.14.53:977][248]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.14.54:001][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.16-19.15.11:568][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.15.11:649][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.15.11:655][289]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.15.11:656][289]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUD88C5A710433EC8E6D19BF1B9D7D7F881.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.15.11:666][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 42.5 sec)
+[2023.11.16-19.15.11:668][289]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.15.11:668][289]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.15.12:542][339]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.15.12:569][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-19.15.14:808][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.15.14:818][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.15.14:818][489]PIE: New page: PIE session: Game (16 Nov 2023, 21:15:14)
+[2023.11.16-19.15.14:855][489]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.15.14:857][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2023.11.16-19.15.14:857][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002150s)
+[2023.11.16-19.15.14:870][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.16-19.15.14:874][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.15.14:874][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.15.14:874][489]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.15.14:874][489]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2023.11.16-19.15.14:874][489]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.15.14:874][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.15.14:874][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.15.14:875][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.15.14:875][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.15.14:875][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.15.14:877][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.15.14:890][489]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.15.14:890][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.15.14:891][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.15.14:891][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.15.14:891][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2023.11.16-19.15.14:891][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2023.11.16-19.15.14:894][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2023.11.16-19.15.14:894][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2023.11.16-19.15.14:894][489]LogInit: FAudioDevice initialized with ID 87.
+[2023.11.16-19.15.14:894][489]LogAudio: Display: Audio Device (ID: 87) registered with world 'Game'.
+[2023.11.16-19.15.14:894][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.16-19.15.14:897][489]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.15.14:898][489]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.15.14
+[2023.11.16-19.15.14:898][489]LogWorld: Bringing up level for play took: 0.000681
+[2023.11.16-19.15.14:900][489]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2023.11.16-19.15.14:901][489]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.15.14:901][489]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.15.14:901][489]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.15.14:903][489]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.15.14:903][489]PIE: Server logged in
+[2023.11.16-19.15.14:904][489]PIE: Play in editor total start time 0.087 seconds.
+[2023.11.16-19.15.28:185][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.15.28:185][ 34]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.15.28:186][ 34]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.15.28:186][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.15.28:192][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.15.28:196][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.15.28:210][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.15.28:210][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.16-19.15.28:210][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.16-19.15.28:211][ 34]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.16-19.15.28:215][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.15.28:218][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.16-19.15.28:263][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.11.16-19.15.49:101][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-19.15.49:183][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interface/HUD" FILE="../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset" SILENT=true
+[2023.11.16-19.15.49:189][305]LogSavePackage: Moving output files for package: /Game/Interface/HUD
+[2023.11.16-19.15.49:190][305]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/HUDEAE626D1424AB7F922B51786C47F405D.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Interface/HUD.uasset'
+[2023.11.16-19.15.49:200][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 42.6 sec)
+[2023.11.16-19.15.49:202][305]AssetCheck: New page: Asset Save: HUD
+[2023.11.16-19.15.49:202][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Interface/HUD.HUD
+[2023.11.16-19.15.50:085][354]BlueprintLog: New page: Compile HUD
+[2023.11.16-19.15.50:108][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.16-19.15.52:289][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.15.52:300][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.15.52:300][523]PIE: New page: PIE session: Game (16 Nov 2023, 21:15:52)
+[2023.11.16-19.15.52:300][523]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.15.52:302][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001929s)
+[2023.11.16-19.15.52:302][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001966s)
+[2023.11.16-19.15.52:317][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.16-19.15.52:321][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.15.52:321][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.15.52:321][523]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.15.52:321][523]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2023.11.16-19.15.52:321][523]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.15.52:322][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.15.52:322][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.15.52:322][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.15.52:322][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.15.52:322][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.15.52:324][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.15.52:337][523]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.15.52:338][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.15.52:338][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.15.52:338][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.15.52:339][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.11.16-19.15.52:339][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.11.16-19.15.52:340][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.11.16-19.15.52:340][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.11.16-19.15.52:340][523]LogInit: FAudioDevice initialized with ID 88.
+[2023.11.16-19.15.52:340][523]LogAudio: Display: Audio Device (ID: 88) registered with world 'Game'.
+[2023.11.16-19.15.52:340][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.16-19.15.52:344][523]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.15.52:344][523]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.15.52
+[2023.11.16-19.15.52:345][523]LogWorld: Bringing up level for play took: 0.000719
+[2023.11.16-19.15.52:347][523]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2023.11.16-19.15.52:348][523]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.15.52:348][523]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.15.52:348][523]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.15.52:350][523]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.15.52:350][523]PIE: Server logged in
+[2023.11.16-19.15.52:351][523]PIE: Play in editor total start time 0.051 seconds.
+[2023.11.16-19.16.26:135][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.16.26:135][475]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.16.26:135][475]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.16.26:136][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.16.26:142][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.16.26:147][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.16.26:160][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.16-19.16.26:160][475]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.16-19.16.26:160][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.16-19.16.26:162][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.16-19.16.26:165][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.16.26:168][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.16-19.16.26:212][476]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2023.11.16-19.17.41:968][ 65]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.16-19.17.41:978][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.16-19.17.41:978][ 65]PIE: New page: PIE session: Game (16 Nov 2023, 21:17:41)
+[2023.11.16-19.17.42:014][ 65]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.16-19.17.42:016][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2023.11.16-19.17.42:016][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002110s)
+[2023.11.16-19.17.42:028][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.16-19.17.42:031][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.16-19.17.42:031][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.16-19.17.42:032][ 65]LogAIModule: Creating AISystem for world Game
+[2023.11.16-19.17.42:032][ 65]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2023.11.16-19.17.42:032][ 65]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.16-19.17.42:032][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.16-19.17.42:032][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.16-19.17.42:032][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.16-19.17.42:032][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.16-19.17.42:032][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.16-19.17.42:034][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.11.16-19.17.42:048][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.11.16-19.17.42:051][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.11.16-19.17.42:051][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.11.16-19.17.42:051][ 65]LogInit: FAudioDevice initialized with ID 89.
+[2023.11.16-19.17.42:051][ 65]LogAudio: Display: Audio Device (ID: 89) registered with world 'Game'.
+[2023.11.16-19.17.42:051][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.16-19.17.42:053][ 65]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.16-19.17.42:054][ 65]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.16-20.17.42
+[2023.11.16-19.17.42:054][ 65]LogWorld: Bringing up level for play took: 0.000683
+[2023.11.16-19.17.42:056][ 65]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2023.11.16-19.17.42:057][ 65]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.17.42:057][ 65]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.16-19.17.42:057][ 65]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.17.42:060][ 65]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.16-19.17.42:060][ 65]PIE: Server logged in
+[2023.11.16-19.17.42:061][ 65]PIE: Play in editor total start time 0.083 seconds.
+[2023.11.16-19.17.49:455][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.17.49:455][933]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.16-19.17.49:455][933]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.16-19.17.49:456][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.17.49:462][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.16-19.17.49:465][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.16-19.17.49:477][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.16-19.17.49:478][933]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.16-19.17.49:478][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.16-19.17.49:479][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.16-19.17.49:486][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.16-19.17.49:528][934]LogPlayLevel: Display: Destroying online subsystem :Context_100
