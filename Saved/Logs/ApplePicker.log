@@ -5117,3 +5117,30 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.17-15.12.29:298][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2023.11.17-15.12.29:424][167]LogPlayLevel: Display: Destroying online subsystem :Context_49
 [2023.11.17-15.12.29:455][167]LogViewport: Scene viewport resized to 514x171, mode Windowed.
+[2023.11.17-15.17.14:211][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.11.17-15.17.14:212][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.11.17-15.17.14:217][527]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_2
+[2023.11.17-15.17.14:220][527]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_2
+[2023.11.17-15.17.17:215][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-15.17.17:299][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-15.17.17:342][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.17-15.17.17:354][695]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.17-15.17.17:355][695]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/GameF84C1A4E4FFF1A50E4D630BD6A531A17.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.17-15.17.17:369][695]LogFileHelpers: Saving map 'Game' took 0.072
+[2023.11.17-15.17.17:379][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 12.6 sec)
+[2023.11.17-15.17.17:381][695]AssetCheck: New page: Asset Save: Game
+[2023.11.17-15.17.17:381][695]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.17-15.17.26:879][239]Cmd: DELETE
+[2023.11.17-15.17.26:879][239]Cmd: ACTOR DELETE
+[2023.11.17-15.17.26:910][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.17-15.17.26:925][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.17-15.17.26:927][239]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.11.17-15.17.27:343][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-15.17.27:420][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-15.17.27:462][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.17-15.17.27:472][263]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.17-15.17.27:473][263]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/GameF90469574C24C9AE4420EEA5FEC39196.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.17-15.17.27:482][263]LogFileHelpers: Saving map 'Game' took 0.061
+[2023.11.17-15.17.27:490][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 12.7 sec)
+[2023.11.17-15.17.27:492][263]AssetCheck: New page: Asset Save: Game
+[2023.11.17-15.17.27:492][263]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
