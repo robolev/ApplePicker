@@ -2517,3 +2517,703 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.17-09.53.06:462][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.11.17-09.53.06:469][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2023.11.17-09.53.06:528][403]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.11.17-09.53.55:241][ 95]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-09.53.55:250][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-09.53.55:250][ 95]PIE: New page: PIE session: Game (17 Nov 2023, 11:53:55)
+[2023.11.17-09.53.55:272][ 95]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-09.53.55:273][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001722s)
+[2023.11.17-09.53.55:273][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001768s)
+[2023.11.17-09.53.55:286][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.17-09.53.55:288][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-09.53.55:288][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-09.53.55:288][ 95]LogAIModule: Creating AISystem for world Game
+[2023.11.17-09.53.55:289][ 95]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2023.11.17-09.53.55:289][ 95]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-09.53.55:289][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-09.53.55:289][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-09.53.55:289][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-09.53.55:289][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-09.53.55:289][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-09.53.55:291][ 95]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-09.53.55:305][ 95]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-09.53.55:306][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-09.53.55:306][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-09.53.55:306][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-09.53.55:306][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.17-09.53.55:306][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.17-09.53.55:308][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.17-09.53.55:308][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.17-09.53.55:308][ 95]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.17-09.53.55:308][ 95]LogAudio: Display: Audio Device (ID: 10) registered with world 'Game'.
+[2023.11.17-09.53.55:308][ 95]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.17-09.53.55:310][ 95]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-09.53.55:312][ 95]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.17-10.53.55
+[2023.11.17-09.53.55:312][ 95]LogWorld: Bringing up level for play took: 0.000616
+[2023.11.17-09.53.55:315][ 95]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.17-09.53.55:315][ 95]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-09.53.55:315][ 95]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-09.53.55:315][ 95]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-09.53.55:318][ 95]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-09.53.55:318][ 95]PIE: Server logged in
+[2023.11.17-09.53.55:318][ 95]PIE: Play in editor total start time 0.067 seconds.
+[2023.11.17-09.53.57:583][354]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-09.53.57:966][400]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-09.53.58:233][432]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-09.54.04:685][206]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.17-09.54.09:812][821]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.17-09.54.10:145][861]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.17-09.54.10:905][952]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.17-09.54.11:638][ 40]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.17-09.54.12:063][ 91]LogBlueprintUserMessages: [BP_Basket_C_0] 10.0
+[2023.11.17-09.54.13:163][223]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-09.54.14:572][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-09.54.14:573][389]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-09.54.14:573][389]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-09.54.14:573][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-09.54.14:576][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-09.54.14:580][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-09.54.14:592][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-09.54.14:592][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.17-09.54.14:592][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.17-09.54.14:594][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.17-09.54.14:602][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.17-09.54.14:660][390]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.17-09.56.24:482][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-09.56.24:490][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-09.56.24:490][156]PIE: New page: PIE session: Game (17 Nov 2023, 11:56:24)
+[2023.11.17-09.56.24:513][156]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-09.56.24:514][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001698s)
+[2023.11.17-09.56.24:514][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001740s)
+[2023.11.17-09.56.24:524][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.17-09.56.24:527][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-09.56.24:527][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-09.56.24:528][156]LogAIModule: Creating AISystem for world Game
+[2023.11.17-09.56.24:528][156]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.11.17-09.56.24:528][156]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-09.56.24:528][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-09.56.24:528][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-09.56.24:529][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-09.56.24:529][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-09.56.24:529][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-09.56.24:531][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-09.56.24:545][156]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-09.56.24:546][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-09.56.24:546][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-09.56.24:546][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-09.56.24:546][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.17-09.56.24:546][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.17-09.56.24:548][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.17-09.56.24:548][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.17-09.56.24:548][156]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.17-09.56.24:548][156]LogAudio: Display: Audio Device (ID: 11) registered with world 'Game'.
+[2023.11.17-09.56.24:548][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.17-09.56.24:550][156]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-09.56.24:551][156]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.11.17-10.56.24
+[2023.11.17-09.56.24:551][156]LogWorld: Bringing up level for play took: 0.000613
+[2023.11.17-09.56.24:553][156]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.11.17-09.56.24:554][156]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-09.56.24:554][156]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-09.56.24:554][156]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-09.56.24:557][156]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-09.56.24:557][156]PIE: Server logged in
+[2023.11.17-09.56.24:557][156]PIE: Play in editor total start time 0.068 seconds.
+[2023.11.17-09.56.31:326][955]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-09.56.31:710][  1]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-09.56.32:026][ 39]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-09.56.34:219][302]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.17-09.56.34:502][336]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.17-09.56.45:031][599]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.17-09.56.45:289][630]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.17-09.56.46:438][768]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.17-09.56.46:855][818]LogBlueprintUserMessages: [BP_Basket_C_0] 10.0
+[2023.11.17-09.56.51:004][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-09.56.51:004][312]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-09.56.51:004][312]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-09.56.51:005][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-09.56.51:008][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-09.56.51:012][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-09.56.51:020][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-09.56.51:020][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.17-09.56.51:020][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.17-09.56.51:023][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.17-09.56.51:030][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.17-09.56.51:090][313]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.11.17-10.12.32:328][103]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.0-27405482+++UE5+Release-5.3
+[2023.11.17-10.12.32:526][103]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={E9DDD0F1-4C6F-AB34-CF7F-BC95863EC8C2}
+[2023.11.17-10.20.38:892][928]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.17-10.21.01:712][200]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2023.11.17-10.21.01:712][200]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2023.11.17-10.21.01:716][200]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Game.Game:PersistentLevel.TriggerBox_0
+[2023.11.17-10.21.01:717][200]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/Game.Game:PersistentLevel.TriggerBox_0
+[2023.11.17-10.21.47:834][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.21.47:931][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-10.21.47:977][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.17-10.21.47:987][927]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.17-10.21.47:988][927]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/GameD0B3202E4C559A7DA26F4AA9D61187D7.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.17-10.21.47:996][927]LogFileHelpers: Saving map 'Game' took 0.066
+[2023.11.17-10.21.48:003][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.26 sec)
+[2023.11.17-10.21.48:004][927]AssetCheck: New page: Asset Save: Game
+[2023.11.17-10.21.48:004][927]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.17-10.22.03:436][587]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.11.17-10.22.03:450][587]LogActorComponent: UnregisterComponent: (/Game/Images/TriggerBox_Blueprint.Default__TriggerBox_Blueprint_C:CollisionComp) Not registered. Aborting.
+[2023.11.17-10.22.03:467][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.17-10.22.03:515][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Images/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.22.03:516][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.22.03:516][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.22.03:805][587]LogViewport: Scene viewport resized to 1059x685, mode Windowed.
+[2023.11.17-10.22.03:846][587]LogAutomationController: Ignoring very large delta of 4.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.17-10.22.25:615][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:615][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.SKEL_TriggerBox_Blueprint_C' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:615][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint_C' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:615][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:615][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:617][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:617][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.SKEL_TriggerBox_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:617][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.SKEL_TriggerBox_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:617][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.SKEL_TriggerBox_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:617][786]LogMetaData: Removing '/Game/Blueprints/TriggerBox_Blueprint.SKEL_TriggerBox_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Images/TriggerBox_Blueprint.PackageMetaData'
+[2023.11.17-10.22.25:627][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.22.25:750][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.22.25:756][786]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.22.25:756][786]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint12BD5C2D4B218A2953CD8DA074674767.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.22.25:770][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 4.40 sec)
+[2023.11.17-10.22.25:789][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.17-10.22.25:803][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.17-10.22.25:816][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.17-10.22.25:907][786]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.22.25:907][786]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.22.26:908][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.22.26:985][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.22.29:016][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.22.29:016][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.22.29:016][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.23.00:827][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.23.00:901][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.23.00:905][796]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.23.00:906][796]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_BlueprintEBD240314E0912D0E86B0CA3DA4C2B9F.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.23.00:914][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 4.49 sec)
+[2023.11.17-10.23.00:916][796]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.23.00:916][796]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.23.03:609][955]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2023.11.17-10.23.03:655][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.17-10.23.04:120][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.23.04:195][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.23.04:199][977]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.23.04:200][977]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint59134FFC4E57A008038CFF87E9116150.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.23.04:208][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.58 sec)
+[2023.11.17-10.23.04:209][977]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.23.04:209][977]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.23.06:757][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.17-10.23.07:922][128]LogSlate: Window 'Save Content' being destroyed
+[2023.11.17-10.23.07:931][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.23.08:048][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.17-10.23.08:087][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.17-10.23.08:093][128]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.17-10.23.08:094][128]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Game998E8EC546F980F1BBF8618AD14E19AE.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.17-10.23.08:102][128]LogFileHelpers: Saving map 'Game' took 0.055
+[2023.11.17-10.23.08:109][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 4.76 sec)
+[2023.11.17-10.23.08:110][128]AssetCheck: New page: Asset Save: Game
+[2023.11.17-10.23.08:110][128]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.17-10.23.08:433][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.23.08:540][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.23.08:559][145]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.23.08:560][145]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketE6BB6D6742D80CC03C0667A652C31825.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.23.08:569][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 4.89 sec)
+[2023.11.17-10.23.08:573][145]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.23.08:573][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.23.10:870][282]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-10.23.10:879][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-10.23.10:879][282]PIE: New page: PIE session: Game (17 Nov 2023, 12:23:10)
+[2023.11.17-10.23.10:879][282]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.23.10:881][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2023.11.17-10.23.10:881][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001733s)
+[2023.11.17-10.23.10:894][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.17-10.23.10:895][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.23.10:895][282]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.23.10:895][282]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.23.10:896][282]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2023.11.17-10.23.10:896][282]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-10.23.10:896][282]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-10.23.10:896][282]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-10.23.10:896][282]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-10.23.10:896][282]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-10.23.10:896][282]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-10.23.10:899][282]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-10.23.10:916][282]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-10.23.10:916][282]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-10.23.10:916][282]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-10.23.10:916][282]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-10.23.10:918][282]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.17-10.23.10:918][282]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.17-10.23.10:921][282]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.17-10.23.10:921][282]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.17-10.23.10:921][282]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.17-10.23.10:921][282]LogAudio: Display: Audio Device (ID: 12) registered with world 'Game'.
+[2023.11.17-10.23.10:921][282]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.17-10.23.10:923][282]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.23.10:924][282]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.23.10
+[2023.11.17-10.23.10:924][282]LogWorld: Bringing up level for play took: 0.000667
+[2023.11.17-10.23.10:927][282]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.17-10.23.10:927][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.23.10:927][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.23.10:927][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.23.10:932][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.23.10:932][282]PIE: Server logged in
+[2023.11.17-10.23.10:933][282]PIE: Play in editor total start time 0.054 seconds.
+[2023.11.17-10.23.32:885][594]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-10.23.33:217][614]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-10.23.33:384][624]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-10.23.33:901][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.23.33:901][653]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.23.33:901][653]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.23.33:902][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.23.33:907][653]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-10.23.33:912][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.23.33:923][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.23.33:923][653]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.17-10.23.33:923][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.17-10.23.33:925][653]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.17-10.23.33:932][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.17-10.23.33:989][654]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.17-10.24.02:892][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.02:963][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.02:967][208]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.02:968][208]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint0B38468542ACFDE5150CFA87575BEADC.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.02:976][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.98 sec)
+[2023.11.17-10.24.02:977][208]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.02:977][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.06:355][407]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2023.11.17-10.24.06:357][407]LogBlueprint: Warning: [AssetLog] C:\Users\Robert\ApplePicker\Content\Blueprints\TriggerBox_Blueprint.uasset: [Compiler] 'BP Basket' does not inherit from 'Player Controller' ( Cast To BP_Basket  would always fail).
+[2023.11.17-10.24.06:402][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.17-10.24.06:678][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.06:753][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.06:757][417]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.06:757][417]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint8E648D824C6EF9207F23779AF094D70F.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.06:765][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.06 sec)
+[2023.11.17-10.24.06:767][417]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.06:767][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.09:202][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.09:277][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.09:282][562]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.09:283][562]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_BlueprintAE808C9D4F67E2B9D348B8BD9F060400.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.09:291][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.15 sec)
+[2023.11.17-10.24.09:292][562]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.09:292][562]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.12:965][775]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2023.11.17-10.24.12:966][775]LogBlueprint: Warning: [AssetLog] C:\Users\Robert\ApplePicker\Content\Blueprints\TriggerBox_Blueprint.uasset: [Compiler] 'BP Basket' does not inherit from 'Player Controller' ( Cast To BP_Basket  would always fail).
+[2023.11.17-10.24.13:008][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.17-10.24.26:635][542]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2023.11.17-10.24.26:678][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.17-10.24.27:185][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.27:262][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.27:267][567]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.27:268][567]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint9F93B1AA4A7F084412A5C885B8849AFE.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.27:277][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.24 sec)
+[2023.11.17-10.24.27:278][567]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.27:278][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.28:667][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.28:741][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.28:746][645]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.28:747][645]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_Blueprint6EBB40824362DB9607C90780DAA2B1F9.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.28:755][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.33 sec)
+[2023.11.17-10.24.28:757][645]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.28:757][645]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.31:360][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.24.31:434][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TriggerBox_Blueprint" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset" SILENT=true
+[2023.11.17-10.24.31:438][791]LogSavePackage: Moving output files for package: /Game/Blueprints/TriggerBox_Blueprint
+[2023.11.17-10.24.31:439][791]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/TriggerBox_BlueprintD46AC10446148427820F609BE8EC0BC3.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/TriggerBox_Blueprint.uasset'
+[2023.11.17-10.24.31:447][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.42 sec)
+[2023.11.17-10.24.31:448][791]AssetCheck: New page: Asset Save: TriggerBox_Blueprint
+[2023.11.17-10.24.31:448][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2023.11.17-10.24.33:590][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-10.24.33:600][918]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.17-10.24.33:601][918]LogPlayLevel: [PlayLevel] Compiling TriggerBox_Blueprint before play...
+[2023.11.17-10.24.33:650][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.17-10.24.33:653][918]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2023.11.17-10.24.33:653][918]PIE: New page: PIE session: Game (17 Nov 2023, 12:24:33)
+[2023.11.17-10.24.33:653][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.24.33:655][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001674s)
+[2023.11.17-10.24.33:655][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001703s)
+[2023.11.17-10.24.33:665][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.17-10.24.33:665][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.24.33:665][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.24.33:666][918]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.24.33:666][918]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2023.11.17-10.24.33:666][918]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-10.24.33:666][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-10.24.33:666][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-10.24.33:667][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-10.24.33:667][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-10.24.33:667][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-10.24.33:668][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-10.24.33:683][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-10.24.33:685][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-10.24.33:685][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-10.24.33:685][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-10.24.33:688][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.11.17-10.24.33:688][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.11.17-10.24.33:690][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.17-10.24.33:690][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.11.17-10.24.33:690][918]LogInit: FAudioDevice initialized with ID 13.
+[2023.11.17-10.24.33:690][918]LogAudio: Display: Audio Device (ID: 13) registered with world 'Game'.
+[2023.11.17-10.24.33:690][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.17-10.24.33:692][918]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.24.33:693][918]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.24.33
+[2023.11.17-10.24.33:693][918]LogWorld: Bringing up level for play took: 0.000640
+[2023.11.17-10.24.33:696][918]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.17-10.24.33:696][918]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.24.33:696][918]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.24.33:696][918]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.24.33:698][918]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.24.33:698][918]PIE: Server logged in
+[2023.11.17-10.24.33:700][918]PIE: Play in editor total start time 0.1 seconds.
+[2023.11.17-10.24.37:046][114]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-10.24.38:263][187]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-10.24.42:397][435]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-10.24.47:381][734]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.17-10.24.53:115][ 78]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.17-10.24.59:115][438]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.17-10.25.03:749][716]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.17-10.25.10:116][ 98]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.17-10.25.27:302][129]LogBlueprintUserMessages: [BP_Basket_C_0] 10.0
+[2023.11.17-10.25.28:703][213]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-10.25.29:385][254]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-10.25.30:136][299]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-10.25.30:581][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.25.30:581][324]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.25.30:582][324]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.25.30:582][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.25.30:587][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-10.25.30:590][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.25.30:600][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.25.30:600][324]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.17-10.25.30:600][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.17-10.25.30:603][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.17-10.25.30:610][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.17-10.25.30:663][325]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.17-10.27.09:970][453]LogEditorTransaction: Undo Move Nodes
+[2023.11.17-10.27.13:155][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.27.13:263][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.27.13:278][608]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.27.13:280][608]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketE881F2EC4FD44B67183E5CB87B0F5C7A.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.27.13:290][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 5.55 sec)
+[2023.11.17-10.27.13:292][608]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.27.13:292][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.27.13:731][630]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.27.13:771][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.17-10.27.14:366][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.27.14:474][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.27.14:489][651]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.27.14:490][651]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_Basket92D599F34CE21346C1375CB9E4A3D590.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.27.14:498][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 5.69 sec)
+[2023.11.17-10.27.14:500][651]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.27.14:500][651]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.29.18:182][ 40]LogDerivedDataCache: C:/Users/Robert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.631 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6068 files in 8320 folders with total size 985 MiB.
+[2023.11.17-10.29.58:138][653]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.29.58:177][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.17-10.29.58:340][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.29.58:456][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.29.58:472][653]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.29.58:473][653]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketE5FAE5F84E36A25BF8A33DB6D8EE99D5.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.29.58:483][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 5.83 sec)
+[2023.11.17-10.29.58:500][653]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.29.58:500][653]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.30.32:583][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.30.32:700][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.30.32:718][453]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.30.32:719][453]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_BasketBF60CE1643CD10B5C6C37ABD528DF692.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.30.32:728][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 5.97 sec)
+[2023.11.17-10.30.32:731][453]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.30.32:731][453]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.30.33:098][473]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.30.33:141][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.17-10.30.40:630][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-10.30.40:642][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-10.30.40:642][904]PIE: New page: PIE session: Game (17 Nov 2023, 12:30:40)
+[2023.11.17-10.30.40:642][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.30.40:644][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002213s)
+[2023.11.17-10.30.40:644][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002252s)
+[2023.11.17-10.30.40:659][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.17-10.30.40:666][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.30.40:666][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.30.40:666][904]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.30.40:666][904]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.11.17-10.30.40:666][904]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.17-10.30.40:666][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-10.30.40:666][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-10.30.40:667][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-10.30.40:667][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-10.30.40:667][904]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-10.30.40:667][904]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-10.30.40:667][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-10.30.40:667][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-10.30.40:667][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-10.30.40:667][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-10.30.40:667][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-10.30.40:670][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-10.30.40:685][904]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-10.30.40:685][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-10.30.40:685][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-10.30.40:685][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-10.30.40:689][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.17-10.30.40:689][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.17-10.30.40:690][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.17-10.30.40:690][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.17-10.30.40:690][904]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.17-10.30.40:690][904]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2023.11.17-10.30.40:690][904]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.17-10.30.40:694][904]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.30.40:695][904]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.30.40
+[2023.11.17-10.30.40:695][904]LogWorld: Bringing up level for play took: 0.000789
+[2023.11.17-10.30.40:698][904]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.17-10.30.40:698][904]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.30.40:698][904]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.30.40:698][904]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.30.40:700][904]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.30.40:700][904]PIE: Server logged in
+[2023.11.17-10.30.40:702][904]PIE: Play in editor total start time 0.06 seconds.
+[2023.11.17-10.30.44:511][127]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-10.30.45:494][186]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-10.30.46:128][224]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-10.30.47:694][318]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.17-10.30.48:311][355]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.17-10.30.49:610][433]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.17-10.30.50:295][474]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.17-10.30.51:294][534]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.17-10.30.52:195][588]LogBlueprintUserMessages: [BP_Basket_C_0] 10.0
+[2023.11.17-10.30.53:712][679]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-10.30.53:728][680]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.17-10.30.53:728][680]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.17-10.30.53:729][680]LogNet: Browse: /Game/Game
+[2023.11.17-10.30.53:729][680]LogLoad: LoadMap: /Game/Game
+[2023.11.17-10.30.53:730][680]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.30.53:731][680]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.30.53:731][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.30.53:743][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.17-10.30.53:746][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.17-10.30.53:750][680]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.30.53:752][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001907s)
+[2023.11.17-10.30.53:752][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001953s)
+[2023.11.17-10.30.53:752][680]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2023.11.17-10.30.53:752][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.30.53:752][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.30.53:752][680]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.30.53:753][680]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2023.11.17-10.30.53:753][680]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.30.53:753][680]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.30.53
+[2023.11.17-10.30.53:754][680]LogWorld: Bringing up level for play took: 0.000719
+[2023.11.17-10.30.53:754][680]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.30.53:754][680]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.30.53:754][680]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.30.53:757][680]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.30.53:758][680]LogLoad: Took 0.029005 seconds to LoadMap(/Game/UEDPIE_0_Game)
+[2023.11.17-10.30.56:742][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.30.56:742][857]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.30.56:742][857]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.30.56:742][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.30.56:745][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-10.30.56:749][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.30.56:762][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.30.56:762][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.17-10.30.56:762][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.17-10.30.56:764][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.17-10.30.56:771][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.17-10.30.56:830][858]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.17-10.31.07:880][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.07:880][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.31.07:881][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.31.18:823][ 84]BlueprintLog: New page: Compile MainGameMode
+[2023.11.17-10.31.18:846][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.17-10.31.18:961][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.31.19:033][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.31.19:036][ 88]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.31.19:037][ 88]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameMode6D074F344940CEF31E950BABCCD5F8BC.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.31.19:046][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 6.06 sec)
+[2023.11.17-10.31.19:047][ 88]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.31.19:047][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.26:902][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.31.26:980][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.31.26:984][549]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.31.26:985][549]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeC7A546A848AB145BDCB6FBBDA083D3DA.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.31.26:993][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.15 sec)
+[2023.11.17-10.31.26:994][549]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.31.26:994][549]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.28:507][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.31.28:583][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.31.28:587][638]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.31.28:588][638]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeF997377C4FC01972C6435892A70D842D.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.31.28:596][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.24 sec)
+[2023.11.17-10.31.28:598][638]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.31.28:598][638]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.31:248][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.31.31:321][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.31.31:325][795]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.31.31:326][795]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeDDE0BE27460586C0CE1C698A50F7EA0B.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.31.31:334][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.33 sec)
+[2023.11.17-10.31.31:336][795]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.31.31:336][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.32:406][858]BlueprintLog: New page: Compile MainGameMode
+[2023.11.17-10.31.32:429][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.17-10.31.32:816][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.31.32:892][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.31.32:897][877]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.31.32:898][877]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameMode96EC1C314A4739BBEA4BF290823ACFF3.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.31.32:907][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.42 sec)
+[2023.11.17-10.31.32:909][877]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.31.32:909][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.31.43:657][473]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.31.43:696][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.17-10.32.19:252][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.32.19:362][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.32.19:379][422]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.32.19:380][422]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_Basket4AD4A45A44118F4BBEED14B1C4D60063.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.32.19:388][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 6.55 sec)
+[2023.11.17-10.32.19:391][422]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.32.19:391][422]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
+[2023.11.17-10.32.30:020][ 55]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.32.30:060][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.17-10.32.47:351][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.17-10.32.47:360][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.17-10.32.47:360][ 67]PIE: New page: PIE session: Game (17 Nov 2023, 12:32:47)
+[2023.11.17-10.32.47:360][ 67]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.32.47:362][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001826s)
+[2023.11.17-10.32.47:362][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.001863s)
+[2023.11.17-10.32.47:376][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.17-10.32.47:380][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.32.47:380][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.32.47:381][ 67]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.32.47:381][ 67]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2023.11.17-10.32.47:381][ 67]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.17-10.32.47:381][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.17-10.32.47:381][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.17-10.32.47:382][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.17-10.32.47:382][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.17-10.32.47:382][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.17-10.32.47:384][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.17-10.32.47:398][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.17-10.32.47:399][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.17-10.32.47:399][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.17-10.32.47:399][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.17-10.32.47:400][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.17-10.32.47:400][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.17-10.32.47:402][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.17-10.32.47:402][ 67]LogInit: FAudioDevice initialized with ID 15.
+[2023.11.17-10.32.47:402][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.17-10.32.47:402][ 67]LogAudio: Display: Audio Device (ID: 15) registered with world 'Game'.
+[2023.11.17-10.32.47:402][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.17-10.32.47:404][ 67]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.32.47:405][ 67]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.32.47
+[2023.11.17-10.32.47:405][ 67]LogWorld: Bringing up level for play took: 0.000670
+[2023.11.17-10.32.47:407][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.11.17-10.32.47:408][ 67]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.32.47:408][ 67]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.32.47:408][ 67]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.32.47:411][ 67]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.32.47:411][ 67]PIE: Server logged in
+[2023.11.17-10.32.47:412][ 67]PIE: Play in editor total start time 0.051 seconds.
+[2023.11.17-10.32.50:897][271]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-10.32.52:531][369]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-10.32.53:365][419]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.17-10.32.53:915][452]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.17-10.32.55:598][553]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.17-10.32.56:648][616]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.17-10.32.57:532][669]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.17-10.32.58:231][711]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.17-10.32.58:948][754]LogBlueprintUserMessages: [BP_Basket_C_0] 10.0
+[2023.11.17-10.32.59:847][808]LogBlueprintUserMessages: [BP_Basket_C_0] dead
+[2023.11.17-10.32.59:848][808]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.11.17-10.32.59:848][808]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.11.17-10.32.59:848][808]LogGameMode: ProcessServerTravel: ?Restart
+[2023.11.17-10.32.59:864][809]LogEngine: Server switch level: /Game/Game?Restart
+[2023.11.17-10.32.59:864][809]LogNet: Browse: /Game/Game?Restart
+[2023.11.17-10.32.59:864][809]LogLoad: LoadMap: /Game/Game
+[2023.11.17-10.32.59:864][809]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.32.59:865][809]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.32.59:865][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.32.59:878][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.17-10.32.59:880][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.17-10.32.59:882][809]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.17-10.32.59:884][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001959s)
+[2023.11.17-10.32.59:884][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.002008s)
+[2023.11.17-10.32.59:884][809]LogAudio: Display: Audio Device (ID: 15) registered with world 'Game'.
+[2023.11.17-10.32.59:884][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.17-10.32.59:884][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.17-10.32.59:885][809]LogAIModule: Creating AISystem for world Game
+[2023.11.17-10.32.59:885][809]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2023.11.17-10.32.59:885][809]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.17-10.32.59:886][809]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.17-11.32.59
+[2023.11.17-10.32.59:886][809]LogWorld: Bringing up level for play took: 0.000539
+[2023.11.17-10.32.59:886][809]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.32.59:886][809]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.17-10.32.59:886][809]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.32.59:888][809]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.17-10.32.59:888][809]LogLoad: Took 0.025112 seconds to LoadMap(/Game/UEDPIE_0_Game)
+[2023.11.17-10.33.14:623][693]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.17-10.33.29:310][574]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.17-10.33.34:171][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.33.34:172][863]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.17-10.33.34:172][863]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.17-10.33.34:172][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.33.34:176][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.17-10.33.34:180][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.17-10.33.34:191][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.17-10.33.34:191][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.17-10.33.34:191][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.17-10.33.34:193][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.17-10.33.34:201][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.17-10.33.34:257][864]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.11.17-10.33.50:679][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.33.50:756][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.33.50:760][800]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.33.50:761][800]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeC5F7F905465E78C3BCB95590CDFE94C6.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.33.50:770][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.65 sec)
+[2023.11.17-10.33.50:772][800]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.33.50:772][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.33.51:743][857]BlueprintLog: New page: Compile MainGameMode
+[2023.11.17-10.33.51:767][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.17-10.33.52:105][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.33.52:178][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainGameMode" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset" SILENT=true
+[2023.11.17-10.33.52:182][875]LogSavePackage: Moving output files for package: /Game/Blueprints/MainGameMode
+[2023.11.17-10.33.52:183][875]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/MainGameModeD4BC59F74DC0B37BFCCD6EAB5370A848.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/MainGameMode.uasset'
+[2023.11.17-10.33.52:192][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.73 sec)
+[2023.11.17-10.33.52:193][875]AssetCheck: New page: Asset Save: MainGameMode
+[2023.11.17-10.33.52:193][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/MainGameMode.MainGameMode
+[2023.11.17-10.34.09:134][844]BlueprintLog: New page: Compile BP_Basket
+[2023.11.17-10.34.09:173][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.17-10.34.09:454][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.17-10.34.09:540][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Basket" FILE="../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset" SILENT=true
+[2023.11.17-10.34.09:557][845]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Basket
+[2023.11.17-10.34.09:558][845]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/BP_Basket1281C209401F3DD80D7B0CBD26099D77.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Blueprints/BP_Basket.uasset'
+[2023.11.17-10.34.09:567][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 6.84 sec)
+[2023.11.17-10.34.09:568][845]AssetCheck: New page: Asset Save: BP_Basket
+[2023.11.17-10.34.09:568][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Basket.BP_Basket
