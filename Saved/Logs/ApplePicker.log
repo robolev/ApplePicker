@@ -2512,3 +2512,871 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.18-10.33.57:184][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2023.11.18-10.33.57:191][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
 [2023.11.18-10.33.57:269][862]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.11.18-10.34.34:800][704]LogViewport: Scene viewport resized to 1108x544, mode Windowed.
+[2023.11.18-10.34.40:504][ 31]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.41:716][ 70]Cmd: TRANSACTION UNDO
+[2023.11.18-10.34.41:716][ 70]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.34.41:738][ 70]MapCheck: Warning: Fixed up shared weightmap texture for layer Auto_LYR in component 'LandscapeComponent_1' (shares with 'LandscapeComponent_0') 
+[2023.11.18-10.34.43:407][144]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:286][645]Cmd: TRANSACTION UNDO
+[2023.11.18-10.34.52:286][645]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.34.52:296][645]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:296][645]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:296][645]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:971][658]Cmd: TRANSACTION UNDO
+[2023.11.18-10.34.52:971][658]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.34.52:979][658]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:979][658]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.52:979][658]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.34.53:583][682]Cmd: TRANSACTION UNDO
+[2023.11.18-10.34.53:583][682]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.34.53:594][682]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.02:045][146]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.14:337][857]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.14:337][857]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.35.14:344][857]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.14:350][857]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.14:350][857]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.18:093][ 36]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.18:093][ 36]LogEditorTransaction: Undo Landscape Editing: Paint
+[2023.11.18-10.35.25:997][470]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.25:998][470]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.29:149][639]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.29:149][639]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.29:158][639]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.30:112][691]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.30:112][691]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.30:121][691]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.31:583][763]LogViewport: Scene viewport resized to 1107x544, mode Windowed.
+[2023.11.18-10.35.32:877][838]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.32:877][838]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.32:884][838]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.33:482][870]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.33:482][870]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.33:490][870]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.33:730][880]Cmd: TRANSACTION UNDO
+[2023.11.18-10.35.33:730][880]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2023.11.18-10.35.33:746][880]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.35.38:140][120]Cmd: SELECT NONE
+[2023.11.18-10.35.38:231][125]Cmd: SELECT NONE
+[2023.11.18-10.35.39:071][175]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.35.39:080][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.35.39:080][175]PIE: New page: PIE session: Game (18 Nov 2023, 12:35:39)
+[2023.11.18-10.35.39:129][175]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.35.39:134][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004440s)
+[2023.11.18-10.35.39:134][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004844s)
+[2023.11.18-10.35.39:152][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.18-10.35.39:155][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.35.39:155][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.35.39:156][175]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.35.39:156][175]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2023.11.18-10.35.39:156][175]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.35.39:156][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.35.39:156][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.35.39:157][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.35.39:157][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.35.39:157][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.35.39:158][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.35.39:173][175]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.35.39:173][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.35.39:173][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.35.39:173][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.35.39:175][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.18-10.35.39:175][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.11.18-10.35.39:176][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.18-10.35.39:176][175]LogInit: FAudioDevice initialized with ID 5.
+[2023.11.18-10.35.39:176][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.18-10.35.39:176][175]LogAudio: Display: Audio Device (ID: 5) registered with world 'Game'.
+[2023.11.18-10.35.39:176][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.18-10.35.39:180][175]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.35.39:181][175]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.35.39
+[2023.11.18-10.35.39:181][175]LogWorld: Bringing up level for play took: 0.000833
+[2023.11.18-10.35.39:183][175]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.11.18-10.35.39:184][175]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.35.39:184][175]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.35.39:184][175]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.35.39:187][175]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.35.39:187][175]PIE: Server logged in
+[2023.11.18-10.35.39:188][175]PIE: Play in editor total start time 0.109 seconds.
+[2023.11.18-10.35.51:331][896]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.35.54:150][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.35.54:150][ 63]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.35.54:150][ 63]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.35.54:151][ 63]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.35.54:151][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.35.54:153][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.35.54:157][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.35.54:171][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.35.54:171][ 63]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.11.18-10.35.54:171][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.18-10.35.54:173][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.18-10.35.54:180][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.18-10.35.54:262][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.11.18-10.35.57:415][246]LogViewport: Scene viewport resized to 1445x544, mode Windowed.
+[2023.11.18-10.36.09:971][946]LogViewport: Scene viewport resized to 1107x544, mode Windowed.
+[2023.11.18-10.36.26:075][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.36.26:083][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.36.26:083][901]PIE: New page: PIE session: Game (18 Nov 2023, 12:36:26)
+[2023.11.18-10.36.26:119][901]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.36.26:122][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003920s)
+[2023.11.18-10.36.26:123][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.003976s)
+[2023.11.18-10.36.26:136][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.18-10.36.26:140][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.36.26:140][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.36.26:141][901]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.36.26:141][901]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2023.11.18-10.36.26:141][901]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.36.26:141][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.36.26:141][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.36.26:142][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.36.26:142][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.36.26:142][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.36.26:143][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.36.26:157][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.36.26:157][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.36.26:157][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.36.26:157][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.36.26:158][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.18-10.36.26:158][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.11.18-10.36.26:159][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.18-10.36.26:159][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.18-10.36.26:159][901]LogInit: FAudioDevice initialized with ID 6.
+[2023.11.18-10.36.26:159][901]LogAudio: Display: Audio Device (ID: 6) registered with world 'Game'.
+[2023.11.18-10.36.26:159][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.18-10.36.26:162][901]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.36.26:163][901]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.36.26
+[2023.11.18-10.36.26:164][901]LogWorld: Bringing up level for play took: 0.000946
+[2023.11.18-10.36.26:166][901]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.11.18-10.36.26:166][901]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.36.26:166][901]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.36.26:166][901]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.36.26:169][901]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.36.26:169][901]PIE: Server logged in
+[2023.11.18-10.36.26:170][901]PIE: Play in editor total start time 0.088 seconds.
+[2023.11.18-10.36.29:389][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.36.29:390][ 86]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.36.29:390][ 86]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.36.29:390][ 86]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.36.29:390][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.36.29:393][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.36.29:398][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.36.29:412][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-10.36.29:412][ 86]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.11.18-10.36.29:412][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.18-10.36.29:414][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.18-10.36.29:417][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.36.29:419][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.18-10.36.29:473][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.11.18-10.36.31:277][188]LogViewport: Scene viewport resized to 1445x544, mode Windowed.
+[2023.11.18-10.36.40:570][654]LogSlate: Window 'Message' being destroyed
+[2023.11.18-10.36.40:591][654]Message dialog closed, result: Cancel, title: Message, text: Are you sure you want to proceed with validating the following folders?
+
+/Game/MAEOakForest/BP
+[2023.11.18-10.36.46:336][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: ================================================
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Total job queries 140, among them cache hits 45 (32.14%)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Tracking 95 distinct input hashes that result in 67 distinct outputs (70.53%)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: RAM used: 2.21 MiB of 819.20 MiB budget. Usage: 0.27%
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Shaders Compiled: 6
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.10 s
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.17 s
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Job life time (pending + execution): average 1.06 s, max 1.27
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Shader code size: average 35.324 KiB, min 12.477 KiB, max 44.746 KiB
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.27 s
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Average processing rate: 4.74 jobs/sec
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Total thread time: 2.232 s
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Total thread preprocess time: 0.381 s
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Percentage time preprocessing: 17.08%
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Effective parallelization: 1.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.07% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.06% of total time (compiled    1 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.68% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 15.79% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 14.58% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.11.18-10.36.46:361][995]LogShaderCompilers: Display: ================================================
+[2023.11.18-10.36.59:514][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.37.12:014][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a
+[2023.11.18-10.37.12:014][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a
+[2023.11.18-10.37.12:017][457]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_1
+[2023.11.18-10.37.13:952][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a
+[2023.11.18-10.37.13:952][567]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a
+[2023.11.18-10.37.13:954][567]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Large_Rock_a.SM_Large_Rock_a as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_2
+[2023.11.18-10.37.17:599][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c
+[2023.11.18-10.37.17:599][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c
+[2023.11.18-10.37.17:599][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_3
+[2023.11.18-10.37.19:004][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c
+[2023.11.18-10.37.19:004][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c
+[2023.11.18-10.37.19:006][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_c.SM_Mossy_Rock_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_4
+[2023.11.18-10.37.20:770][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b
+[2023.11.18-10.37.20:770][933]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b
+[2023.11.18-10.37.20:771][933]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_5
+[2023.11.18-10.37.21:661][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b
+[2023.11.18-10.37.21:662][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b
+[2023.11.18-10.37.21:663][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_6
+[2023.11.18-10.37.22:510][ 27]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.37.22:518][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.37.22:518][ 27]PIE: New page: PIE session: Game (18 Nov 2023, 12:37:22)
+[2023.11.18-10.37.22:518][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.37.22:523][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004062s)
+[2023.11.18-10.37.22:523][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004099s)
+[2023.11.18-10.37.22:537][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.18-10.37.22:539][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.37.22:539][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.37.22:539][ 27]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.37.22:540][ 27]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2023.11.18-10.37.22:540][ 27]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.37.22:540][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.37.22:540][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.37.22:540][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.37.22:540][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.37.22:540][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.37.22:542][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.37.22:559][ 27]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.37.22:559][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.37.22:559][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.37.22:559][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.37.22:560][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.18-10.37.22:560][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.18-10.37.22:562][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.18-10.37.22:562][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.18-10.37.22:562][ 27]LogInit: FAudioDevice initialized with ID 7.
+[2023.11.18-10.37.22:562][ 27]LogAudio: Display: Audio Device (ID: 7) registered with world 'Game'.
+[2023.11.18-10.37.22:562][ 27]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.18-10.37.22:565][ 27]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.37.22:566][ 27]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.37.22
+[2023.11.18-10.37.22:566][ 27]LogWorld: Bringing up level for play took: 0.000975
+[2023.11.18-10.37.22:569][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.11.18-10.37.22:569][ 27]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.22:569][ 27]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.22:569][ 27]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.22:573][ 27]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.22:573][ 27]PIE: Server logged in
+[2023.11.18-10.37.22:573][ 27]PIE: Play in editor total start time 0.054 seconds.
+[2023.11.18-10.37.23:112][ 30]LogSlate: Took 0.001081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.18-10.37.27:581][298]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.37.29:148][392]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.18-10.37.29:729][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.29:729][425]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.37.29:729][425]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.37.29:730][425]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.37.29:730][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.29:734][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.37.29:738][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.29:749][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-10.37.29:749][425]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.11.18-10.37.29:749][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.18-10.37.29:751][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.18-10.37.29:755][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.29:758][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.18-10.37.29:825][426]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.11.18-10.37.33:370][612]Cmd: ACTOR SELECT ALL
+[2023.11.18-10.37.33:480][613]LogViewport: Scene viewport resized to 514x171, mode Windowed.
+[2023.11.18-10.37.34:216][639]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.37.34:251][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.37.34:251][639]PIE: New page: PIE session: Game (18 Nov 2023, 12:37:34)
+[2023.11.18-10.37.34:279][639]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.37.34:284][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004528s)
+[2023.11.18-10.37.34:284][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004598s)
+[2023.11.18-10.37.34:299][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.18-10.37.34:301][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.37.34:302][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.37.34:302][639]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.37.34:303][639]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2023.11.18-10.37.34:303][639]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.37.34:303][639]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.37.34:303][639]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.37.34:303][639]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.37.34:303][639]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.37.34:303][639]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.37.34:305][639]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.37.34:320][639]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.37.34:320][639]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.37.34:320][639]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.37.34:320][639]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.37.34:321][639]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.18-10.37.34:321][639]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.18-10.37.34:323][639]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.18-10.37.34:324][639]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.18-10.37.34:324][639]LogInit: FAudioDevice initialized with ID 8.
+[2023.11.18-10.37.34:324][639]LogAudio: Display: Audio Device (ID: 8) registered with world 'Game'.
+[2023.11.18-10.37.34:324][639]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.18-10.37.34:326][639]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.37.34:327][639]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.37.34
+[2023.11.18-10.37.34:327][639]LogWorld: Bringing up level for play took: 0.001086
+[2023.11.18-10.37.34:331][639]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.11.18-10.37.34:333][639]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.34:333][639]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.34:333][639]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.34:336][639]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.34:336][639]PIE: Server logged in
+[2023.11.18-10.37.34:337][639]PIE: Play in editor total start time 0.107 seconds.
+[2023.11.18-10.37.36:419][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.36:419][687]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.37.36:419][687]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.37.36:419][687]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.37.36:421][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.36:425][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.37.36:430][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.36:442][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.36:442][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.11.18-10.37.36:442][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.18-10.37.36:444][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.18-10.37.36:451][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.18-10.37.36:525][688]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.11.18-10.37.36:577][688]LogViewport: Scene viewport resized to 514x171, mode Windowed.
+[2023.11.18-10.37.42:271][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.37.42:349][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-10.37.42:389][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.18-10.37.42:394][948]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2023.11.18-10.37.42:396][948]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.37.42:397][948]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_0.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2023.11.18-10.37.42:412][948]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.18-10.37.42:413][948]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/GameCFC21D62403043387294E0A62F59204E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.18-10.37.42:422][948]LogFileHelpers: Saving map 'Game' took 0.073
+[2023.11.18-10.37.42:432][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 963 ms)
+[2023.11.18-10.37.42:435][948]AssetCheck: New page: Asset Save: Game
+[2023.11.18-10.37.42:435][948]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.18-10.37.42:925][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.37.43:076][974]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b
+[2023.11.18-10.37.43:077][974]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/SM_Rock_bAAFCFB54461B559B521A8DBE9B8573FA.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.uasset'
+[2023.11.18-10.37.43:089][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 1.12 sec)
+[2023.11.18-10.37.43:090][974]AssetCheck: New page: Asset Save: SM_Rock_b
+[2023.11.18-10.37.43:090][974]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Rock_b.SM_Rock_b
+[2023.11.18-10.37.44:054][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.18-10.37.44:874][ 30]LogSlate: Window 'Save Content' being destroyed
+[2023.11.18-10.37.44:885][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.37.45:014][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Auto_LYR_LayerInfo
+[2023.11.18-10.37.45:014][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Auto_LYR_LayerInfo474F5F554453BCD1A85A428726F63101.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Auto_LYR_LayerInfo.uasset'
+[2023.11.18-10.37.45:019][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Cliff_LYR_b_LayerInfo
+[2023.11.18-10.37.45:019][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Cliff_LYR_b_LayerInfo3A21D3B345E9878BA2C8668CEE30489E.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Cliff_LYR_b_LayerInfo.uasset'
+[2023.11.18-10.37.45:022][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_a_LayerInfo
+[2023.11.18-10.37.45:022][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Oak_Forest_LYR_a_LayerInfo196A901F4888E4DB7EDA6D8A7A20A299.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_a_LayerInfo.uasset'
+[2023.11.18-10.37.45:025][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_b_LayerInfo
+[2023.11.18-10.37.45:025][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Oak_Forest_LYR_b_LayerInfo92EA2CC441802ECE18268498D17F4586.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_b_LayerInfo.uasset'
+[2023.11.18-10.37.45:027][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_c_LayerInfo
+[2023.11.18-10.37.45:027][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Oak_Forest_LYR_c_LayerInfo93D83D4B4DB73D87B8AAE28042606A93.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_c_LayerInfo.uasset'
+[2023.11.18-10.37.45:031][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_d_LayerInfo
+[2023.11.18-10.37.45:031][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Oak_Forest_LYR_d_LayerInfoA8C3ED4241A181E19FD3E28941927970.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_d_LayerInfo.uasset'
+[2023.11.18-10.37.45:034][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_e_LayerInfo
+[2023.11.18-10.37.45:034][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Oak_Forest_LYR_e_LayerInfoD91E19F84A974A2F92386680E8EDCDF0.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_e_LayerInfo.uasset'
+[2023.11.18-10.37.45:037][ 30]LogSavePackage: Moving output files for package: /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Red_Soil_LYR_a_LayerInfo
+[2023.11.18-10.37.45:037][ 30]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Red_Soil_LYR_a_LayerInfoE9DC913D4729FE1A48A3EAB8FCC86A65.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/MAEOakForest/Materials/Terrain/MasterMaterial/Red_Soil_LYR_a_LayerInfo.uasset'
+[2023.11.18-10.37.45:048][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 1.29 sec)
+[2023.11.18-10.37.45:050][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Auto_LYR_LayerInfo.Auto_LYR_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Cliff_LYR_b_LayerInfo.Cliff_LYR_b_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_a_LayerInfo.Oak_Forest_LYR_a_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_b_LayerInfo.Oak_Forest_LYR_b_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_c_LayerInfo.Oak_Forest_LYR_c_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_d_LayerInfo.Oak_Forest_LYR_d_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Oak_Forest_LYR_e_LayerInfo.Oak_Forest_LYR_e_LayerInfo
+[2023.11.18-10.37.45:050][ 30]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/MAEOakForest/Materials/Terrain/MasterMaterial/Red_Soil_LYR_a_LayerInfo.Red_Soil_LYR_a_LayerInfo
+[2023.11.18-10.37.46:098][ 90]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.37.46:109][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.37.46:109][ 90]PIE: New page: PIE session: Game (18 Nov 2023, 12:37:46)
+[2023.11.18-10.37.46:109][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.37.46:114][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003963s)
+[2023.11.18-10.37.46:114][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.003998s)
+[2023.11.18-10.37.46:126][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.18-10.37.46:129][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.37.46:129][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.37.46:129][ 90]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.37.46:130][ 90]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2023.11.18-10.37.46:130][ 90]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.37.46:130][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.37.46:130][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.37.46:130][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.37.46:130][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.37.46:130][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.37.46:132][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.37.46:146][ 90]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.37.46:147][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.37.46:147][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.37.46:147][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.37.46:147][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.18-10.37.46:147][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.18-10.37.46:150][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.18-10.37.46:150][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.18-10.37.46:150][ 90]LogInit: FAudioDevice initialized with ID 9.
+[2023.11.18-10.37.46:150][ 90]LogAudio: Display: Audio Device (ID: 9) registered with world 'Game'.
+[2023.11.18-10.37.46:150][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.18-10.37.46:152][ 90]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.37.46:153][ 90]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.37.46
+[2023.11.18-10.37.46:154][ 90]LogWorld: Bringing up level for play took: 0.000964
+[2023.11.18-10.37.46:156][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.11.18-10.37.46:157][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.46:157][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.46:157][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.46:159][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.46:159][ 90]PIE: Server logged in
+[2023.11.18-10.37.46:160][ 90]PIE: Play in editor total start time 0.051 seconds.
+[2023.11.18-10.37.49:647][293]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.37.50:360][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.50:360][333]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.37.50:360][333]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.37.50:360][333]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.37.50:360][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.50:365][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.37.50:369][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.50:380][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.50:380][333]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.11.18-10.37.50:380][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.18-10.37.50:382][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.18-10.37.50:389][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.18-10.37.50:460][334]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.11.18-10.37.53:187][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e
+[2023.11.18-10.37.53:187][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e
+[2023.11.18-10.37.53:187][480]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_7
+[2023.11.18-10.37.55:389][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e
+[2023.11.18-10.37.55:389][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e
+[2023.11.18-10.37.55:390][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Rocks/SM_Mossy_Rock_e.SM_Mossy_Rock_e as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_8
+[2023.11.18-10.37.55:839][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.37.55:923][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-10.37.55:963][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.18-10.37.55:979][633]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.18-10.37.55:980][633]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Game3A407BFD4AF864FDFF37EC9BD4C8FB63.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.18-10.37.55:987][633]LogFileHelpers: Saving map 'Game' took 0.065
+[2023.11.18-10.37.55:995][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.44 sec)
+[2023.11.18-10.37.55:998][633]AssetCheck: New page: Asset Save: Game
+[2023.11.18-10.37.55:999][633]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.18-10.37.56:378][654]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.37.56:386][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.37.56:386][654]PIE: New page: PIE session: Game (18 Nov 2023, 12:37:56)
+[2023.11.18-10.37.56:386][654]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.37.56:391][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004193s)
+[2023.11.18-10.37.56:391][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004226s)
+[2023.11.18-10.37.56:404][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.18-10.37.56:406][654]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.37.56:406][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.37.56:406][654]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.37.56:407][654]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.11.18-10.37.56:407][654]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.37.56:407][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.37.56:407][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.37.56:407][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.37.56:407][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.37.56:407][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.37.56:409][654]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.37.56:424][654]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.37.56:424][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.37.56:424][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.37.56:424][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.37.56:424][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.18-10.37.56:424][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.18-10.37.56:427][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.18-10.37.56:427][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.18-10.37.56:427][654]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.18-10.37.56:427][654]LogAudio: Display: Audio Device (ID: 10) registered with world 'Game'.
+[2023.11.18-10.37.56:427][654]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.18-10.37.56:429][654]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.37.56:430][654]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.37.56
+[2023.11.18-10.37.56:430][654]LogWorld: Bringing up level for play took: 0.001532
+[2023.11.18-10.37.56:433][654]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.11.18-10.37.56:434][654]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.56:434][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.37.56:434][654]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.56:437][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.37.56:437][654]PIE: Server logged in
+[2023.11.18-10.37.56:437][654]PIE: Play in editor total start time 0.052 seconds.
+[2023.11.18-10.37.58:049][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.58:049][743]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.37.58:049][743]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.37.58:049][743]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.37.58:049][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.58:054][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.37.58:058][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.37.58:070][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.37.58:070][743]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.18-10.37.58:070][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.18-10.37.58:072][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.18-10.37.58:079][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.18-10.37.58:147][744]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.18-10.38.02:301][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.38.02:380][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Users/Robert/ApplePicker/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.18-10.38.02:417][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.18-10.38.02:434][967]LogSavePackage: Moving output files for package: /Game/Game
+[2023.11.18-10.38.02:435][967]LogSavePackage: Moving '../../../../../../Users/Robert/ApplePicker/Saved/Game8682B7AA48C08E9714A7E2AD505F2BB2.tmp' to '../../../../../../Users/Robert/ApplePicker/Content/Game.umap'
+[2023.11.18-10.38.02:443][967]LogFileHelpers: Saving map 'Game' took 0.064
+[2023.11.18-10.38.02:452][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.59 sec)
+[2023.11.18-10.38.02:454][967]AssetCheck: New page: Asset Save: Game
+[2023.11.18-10.38.02:454][967]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2023.11.18-10.38.02:866][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.38.02:874][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.38.02:874][991]PIE: New page: PIE session: Game (18 Nov 2023, 12:38:02)
+[2023.11.18-10.38.02:874][991]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.38.02:879][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004398s)
+[2023.11.18-10.38.02:879][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004436s)
+[2023.11.18-10.38.02:891][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.18-10.38.02:894][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.38.02:894][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.38.02:894][991]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.38.02:895][991]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2023.11.18-10.38.02:895][991]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.38.02:895][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.38.02:895][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.38.02:895][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.38.02:895][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.38.02:895][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.38.02:897][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.38.02:911][991]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.38.02:911][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.38.02:911][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.38.02:911][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.38.02:912][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.18-10.38.02:912][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.18-10.38.02:914][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.18-10.38.02:914][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.18-10.38.02:914][991]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.18-10.38.02:914][991]LogAudio: Display: Audio Device (ID: 11) registered with world 'Game'.
+[2023.11.18-10.38.02:914][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.18-10.38.02:917][991]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.38.02:918][991]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.38.02
+[2023.11.18-10.38.02:918][991]LogWorld: Bringing up level for play took: 0.000985
+[2023.11.18-10.38.02:920][991]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.18-10.38.02:920][991]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.38.02:920][991]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.38.02:920][991]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.38.02:923][991]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.38.02:923][991]PIE: Server logged in
+[2023.11.18-10.38.02:924][991]PIE: Play in editor total start time 0.051 seconds.
+[2023.11.18-10.38.06:727][213]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.38.08:410][314]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.18-10.38.09:845][400]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.18-10.38.11:877][522]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.18-10.38.33:007][789]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.18-10.38.36:473][997]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.18-10.38.37:406][ 53]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.18-10.38.40:524][240]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.18-10.38.41:589][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.38.41:589][302]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.38.41:589][302]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.38.41:589][302]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.38.41:590][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.38.41:594][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.38.41:600][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.38.41:613][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-10.38.41:613][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.18-10.38.41:613][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.18-10.38.41:616][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.18-10.38.41:619][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.38.41:623][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.18-10.38.41:690][303]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.18-10.38.55:745][133]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.11.18-10.38.55:745][133]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.11.18-10.38.59:758][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.38.59:758][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.38.59:758][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_9
+[2023.11.18-10.39.01:222][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.01:222][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.01:224][381]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_10
+[2023.11.18-10.39.02:102][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.02:102][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.02:102][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_11
+[2023.11.18-10.39.04:069][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.04:069][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.04:070][510]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_12
+[2023.11.18-10.39.04:768][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b
+[2023.11.18-10.39.04:768][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b
+[2023.11.18-10.39.04:769][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_13
+[2023.11.18-10.39.05:543][583]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b
+[2023.11.18-10.39.05:543][583]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b
+[2023.11.18-10.39.05:544][583]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_b.SM_Oak_Tree_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_14
+[2023.11.18-10.39.06:347][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.06:347][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.06:348][609]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_15
+[2023.11.18-10.39.06:750][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.06:750][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.06:751][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_16
+[2023.11.18-10.39.07:647][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e
+[2023.11.18-10.39.07:647][669]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e
+[2023.11.18-10.39.07:647][669]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_17
+[2023.11.18-10.39.08:312][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e
+[2023.11.18-10.39.08:312][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e
+[2023.11.18-10.39.08:314][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_e.SM_Oak_Tree_e as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_18
+[2023.11.18-10.39.08:992][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.08:992][735]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.08:993][735]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_19
+[2023.11.18-10.39.09:536][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.09:536][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.09:537][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_20
+[2023.11.18-10.39.22:340][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.22:340][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.22:341][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_21
+[2023.11.18-10.39.22:646][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.22:646][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c
+[2023.11.18-10.39.22:648][519]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_c.SM_Oak_Tree_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_22
+[2023.11.18-10.39.23:499][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d
+[2023.11.18-10.39.23:499][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d
+[2023.11.18-10.39.23:500][556]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_23
+[2023.11.18-10.39.24:068][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d
+[2023.11.18-10.39.24:068][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d
+[2023.11.18-10.39.24:071][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_d.SM_Oak_Tree_d as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_24
+[2023.11.18-10.39.24:796][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.24:796][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.24:797][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_25
+[2023.11.18-10.39.25:058][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.25:058][632]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.25:059][632]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_26
+[2023.11.18-10.39.25:841][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a
+[2023.11.18-10.39.25:841][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a
+[2023.11.18-10.39.25:842][666]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_27
+[2023.11.18-10.39.26:225][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a
+[2023.11.18-10.39.26:225][686]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a
+[2023.11.18-10.39.26:226][686]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_a.SM_Oak_Tree_a as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_28
+[2023.11.18-10.39.27:109][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Seedling_c.SM_Oak_Seedling_c
+[2023.11.18-10.39.27:109][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Seedling_c.SM_Oak_Seedling_c
+[2023.11.18-10.39.27:110][727]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Seedling_c.SM_Oak_Seedling_c as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_29
+[2023.11.18-10.39.28:556][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b
+[2023.11.18-10.39.28:556][791]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b
+[2023.11.18-10.39.28:558][791]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_30
+[2023.11.18-10.39.29:064][818]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b
+[2023.11.18-10.39.29:064][818]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b
+[2023.11.18-10.39.29:066][818]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Sapling_b.SM_Oak_Sapling_b as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_31
+[2023.11.18-10.39.30:699][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.30:699][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.30:699][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_32
+[2023.11.18-10.39.31:011][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.31:011][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f
+[2023.11.18-10.39.31:013][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Trees/SM_Oak_Tree_f.SM_Oak_Tree_f as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_33
+[2023.11.18-10.39.32:087][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.39.32:096][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.39.32:097][977]PIE: New page: PIE session: Game (18 Nov 2023, 12:39:32)
+[2023.11.18-10.39.32:097][977]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.39.32:102][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004865s)
+[2023.11.18-10.39.32:102][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.004898s)
+[2023.11.18-10.39.32:115][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.18-10.39.32:116][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.39.32:116][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.39.32:117][977]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.39.32:117][977]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2023.11.18-10.39.32:117][977]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.39.32:117][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.39.32:117][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.39.32:117][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.39.32:117][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.39.32:117][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.39.32:119][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.39.32:133][977]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.39.32:134][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.39.32:134][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.39.32:134][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.39.32:134][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.18-10.39.32:134][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.18-10.39.32:136][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.18-10.39.32:136][977]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.18-10.39.32:136][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.18-10.39.32:136][977]LogAudio: Display: Audio Device (ID: 12) registered with world 'Game'.
+[2023.11.18-10.39.32:136][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.18-10.39.32:140][977]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.39.32:142][977]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.39.32
+[2023.11.18-10.39.32:142][977]LogWorld: Bringing up level for play took: 0.001620
+[2023.11.18-10.39.32:145][977]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.18-10.39.32:145][977]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.39.32:145][977]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.39.32:145][977]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.39.32:147][977]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.39.32:147][977]PIE: Server logged in
+[2023.11.18-10.39.32:148][977]PIE: Play in editor total start time 0.052 seconds.
+[2023.11.18-10.39.35:969][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.39.35:970][142]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.39.35:970][142]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.39.35:970][142]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.39.35:970][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.39.35:980][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.39.35:986][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.39.36:000][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.39.36:000][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.18-10.39.36:000][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.18-10.39.36:002][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.18-10.39.36:010][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.18-10.39.36:079][143]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.18-10.39.51:637][914]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.39.51:646][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.39.51:646][914]PIE: New page: PIE session: Game (18 Nov 2023, 12:39:51)
+[2023.11.18-10.39.51:646][914]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.39.51:652][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005455s)
+[2023.11.18-10.39.51:652][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005509s)
+[2023.11.18-10.39.51:666][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.18-10.39.51:667][914]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.39.51:667][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.39.51:668][914]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.39.51:668][914]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2023.11.18-10.39.51:668][914]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.39.51:668][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.39.51:668][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.39.51:669][914]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.39.51:669][914]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.39.51:669][914]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.39.51:670][914]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.39.51:685][914]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.39.51:685][914]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.39.51:685][914]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.39.51:685][914]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.39.51:686][914]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.11.18-10.39.51:686][914]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.11.18-10.39.51:689][914]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.18-10.39.51:689][914]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.11.18-10.39.51:689][914]LogInit: FAudioDevice initialized with ID 13.
+[2023.11.18-10.39.51:689][914]LogAudio: Display: Audio Device (ID: 13) registered with world 'Game'.
+[2023.11.18-10.39.51:689][914]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.18-10.39.51:691][914]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.39.51:693][914]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.39.51
+[2023.11.18-10.39.51:693][914]LogWorld: Bringing up level for play took: 0.001685
+[2023.11.18-10.39.51:696][914]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.18-10.39.51:696][914]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.39.51:696][914]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.39.51:696][914]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.39.51:699][914]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.39.51:699][914]PIE: Server logged in
+[2023.11.18-10.39.51:700][914]PIE: Play in editor total start time 0.054 seconds.
+[2023.11.18-10.40.05:360][534]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.40.12:120][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.40.12:121][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.40.12:121][851]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.40.12:121][851]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.40.12:121][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.40.12:136][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.40.12:141][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.40.12:152][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.40.12:152][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.18-10.40.12:152][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.18-10.40.12:154][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.18-10.40.12:161][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.18-10.40.12:218][852]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.18-10.40.18:678][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2
+[2023.11.18-10.40.18:678][142]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2
+[2023.11.18-10.40.18:678][142]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2 as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_34
+[2023.11.18-10.40.19:693][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2
+[2023.11.18-10.40.19:693][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2
+[2023.11.18-10.40.19:695][190]LogActorFactory: Actor Factory spawned StaticMesh /Game/MAEOakForest/Meshes/Environments/Logs/SM_Oak_Log_d_2.SM_Oak_Log_d_2 as actor: StaticMeshActor /Game/Game.Game:PersistentLevel.StaticMeshActor_35
+[2023.11.18-10.40.37:848][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-10.40.37:857][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-10.40.37:857][171]PIE: New page: PIE session: Game (18 Nov 2023, 12:40:37)
+[2023.11.18-10.40.37:878][171]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2023.11.18-10.40.37:884][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005532s)
+[2023.11.18-10.40.37:884][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (0.005578s)
+[2023.11.18-10.40.37:899][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.18-10.40.37:901][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.40.37:901][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.40.37:902][171]LogAIModule: Creating AISystem for world Game
+[2023.11.18-10.40.37:902][171]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2023.11.18-10.40.37:902][171]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-10.40.37:902][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-10.40.37:902][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-10.40.37:902][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-10.40.37:902][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-10.40.37:902][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-10.40.37:905][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-10.40.37:917][171]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO)
+[2023.11.18-10.40.37:918][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-10.40.37:918][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-10.40.37:918][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-10.40.37:919][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.18-10.40.37:919][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.18-10.40.37:920][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.18-10.40.37:921][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.18-10.40.37:921][171]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.18-10.40.37:921][171]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2023.11.18-10.40.37:921][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.18-10.40.37:923][171]LogLoad: Game class is 'MainGameMode_C'
+[2023.11.18-10.40.37:925][171]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2023.11.18-11.40.37
+[2023.11.18-10.40.37:925][171]LogWorld: Bringing up level for play took: 0.001860
+[2023.11.18-10.40.37:928][171]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.18-10.40.37:928][171]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.40.37:928][171]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.11.18-10.40.37:928][171]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.40.37:931][171]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.11.18-10.40.37:931][171]PIE: Server logged in
+[2023.11.18-10.40.37:931][171]PIE: Play in editor total start time 0.075 seconds.
+[2023.11.18-10.40.43:270][397]LogBlueprintUserMessages: [BP_Basket_C_0] 90.0
+[2023.11.18-10.40.43:646][414]LogBlueprintUserMessages: [BP_Basket_C_0] 80.0
+[2023.11.18-10.40.44:542][455]LogBlueprintUserMessages: [BP_Basket_C_0] 70.0
+[2023.11.18-10.40.50:514][728]LogBlueprintUserMessages: [BP_Basket_C_0] 60.0
+[2023.11.18-10.40.51:724][784]LogBlueprintUserMessages: [BP_Basket_C_0] 50.0
+[2023.11.18-10.40.55:308][950]LogBlueprintUserMessages: [BP_Basket_C_0] 40.0
+[2023.11.18-10.41.02:416][282]LogBlueprintUserMessages: [BP_Basket_C_0] 30.0
+[2023.11.18-10.41.03:335][325]LogBlueprintUserMessages: [BP_Basket_C_0] 20.0
+[2023.11.18-10.41.03:440][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.41.03:440][328]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2023.11.18-10.41.03:440][328]LogFCTween: Warning: Consider increasing initial capacity for Quaternion tweens with FCTween::EnsureCapacity(). 10 were initially reserved, but now there are 60 in memory.
+[2023.11.18-10.41.03:440][328]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.41.03:440][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.41.03:450][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-10.41.03:456][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.41.03:467][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-10.41.03:468][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.18-10.41.03:468][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.18-10.41.03:469][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.18-10.41.03:477][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.18-10.41.03:542][329]LogPlayLevel: Display: Destroying online subsystem :Context_26
